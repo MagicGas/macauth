@@ -1,0 +1,2165 @@
+Not Found: /
+[10/Jun/2019 11:37:24] "GET / HTTP/1.0" 404 2561
+Not Found: /favicon.ico
+[10/Jun/2019 11:37:24] "GET /favicon.ico HTTP/1.0" 404 2612
+[10/Jun/2019 11:37:33] "GET /login HTTP/1.0" 301 0
+[10/Jun/2019 11:37:33] "GET /login/ HTTP/1.0" 302 0
+[10/Jun/2019 11:37:33] "GET /loginPage HTTP/1.0" 301 0
+[10/Jun/2019 11:37:33] "GET /loginPage/ HTTP/1.0" 200 2144
+[10/Jun/2019 11:37:33] "GET /static/css/style.css HTTP/1.0" 200 6943
+[10/Jun/2019 11:37:33] "GET /static/jquery-3.3.1.js HTTP/1.0" 200 271751
+[10/Jun/2019 11:37:33] "GET /static/images/bg.jpg HTTP/1.0" 200 24224
+[10/Jun/2019 11:37:42] "GET /loginPage/ HTTP/1.0" 200 2144
+[10/Jun/2019 11:37:43] "GET /loginPage/ HTTP/1.0" 200 2144
+[10/Jun/2019 11:37:44] "GET /loginPage/ HTTP/1.0" 200 2144
+[10/Jun/2019 11:37:44] "GET /loginPage/ HTTP/1.0" 200 2144
+[10/Jun/2019 11:37:44] "GET /loginPage/ HTTP/1.0" 200 2144
+[10/Jun/2019 11:37:51] "POST /login/ HTTP/1.0" 200 39
+[10/Jun/2019 11:37:51] "GET /loginPage/ HTTP/1.0" 200 2144
+[10/Jun/2019 11:38:05] "POST /login/ HTTP/1.0" 200 43
+[10/Jun/2019 11:38:05] "GET /macauth HTTP/1.0" 301 0
+[10/Jun/2019 11:38:05] "GET /macauth/ HTTP/1.0" 200 4836
+[10/Jun/2019 11:38:05] "GET /static/images/logo.jpg HTTP/1.0" 200 17193
+[10/Jun/2019 11:38:06] "GET /static/css/index1.css HTTP/1.0" 200 1191
+[10/Jun/2019 11:38:06] "GET /static/js/bootstrap.js HTTP/1.0" 200 69707
+[10/Jun/2019 11:38:06] "GET /static/css/bootstrap.css HTTP/1.0" 200 146010
+[10/Jun/2019 11:38:06] "GET /static/images/pic.jpg HTTP/1.0" 200 8475
+[10/Jun/2019 11:38:06] "POST /showdata/ HTTP/1.0" 200 12150
+[10/Jun/2019 11:38:12] "GET /macauth/ HTTP/1.0" 200 4836
+[10/Jun/2019 11:38:12] "POST /showdata/ HTTP/1.0" 200 12150
+[10/Jun/2019 11:38:13] "GET /macauth/ HTTP/1.0" 200 4836
+[10/Jun/2019 11:38:13] "POST /showdata/ HTTP/1.0" 200 12150
+[10/Jun/2019 11:38:13] "GET /macauth/ HTTP/1.0" 200 4836
+[10/Jun/2019 11:38:13] "POST /showdata/ HTTP/1.0" 200 12150
+[10/Jun/2019 11:38:26] "GET /macauth/ HTTP/1.0" 200 4836
+[10/Jun/2019 11:38:26] "POST /showdata/ HTTP/1.0" 200 12150
+[10/Jun/2019 11:39:03] "GET /macauth/ HTTP/1.0" 302 0
+[10/Jun/2019 11:39:03] "GET /loginPage HTTP/1.0" 301 0
+[10/Jun/2019 11:39:03] "GET /loginPage/ HTTP/1.0" 200 2144
+[10/Jun/2019 11:39:04] "POST /login/ HTTP/1.0" 200 43
+[10/Jun/2019 11:39:04] "GET /macauth/ HTTP/1.0" 200 4836
+[10/Jun/2019 11:39:04] "POST /showdata/ HTTP/1.0" 200 12150
+[10/Jun/2019 11:39:05] "POST /showdata/ HTTP/1.0" 200 2
+[10/Jun/2019 11:39:06] "POST /showdata/ HTTP/1.0" 200 576
+[10/Jun/2019 11:39:06] "POST /showdata/ HTTP/1.0" 200 324
+[10/Jun/2019 11:39:07] "POST /showdata/ HTTP/1.0" 200 12150
+[10/Jun/2019 11:43:13] "GET /loginPage/ HTTP/1.0" 302 0
+[10/Jun/2019 11:43:13] "GET /macauth/ HTTP/1.0" 200 4836
+[10/Jun/2019 11:43:13] "POST /showdata/ HTTP/1.0" 200 12150
+[10/Jun/2019 11:43:21] "POST /macedit/ HTTP/1.0" 200 7
+/usr/local/python3/lib/python3.6/site-packages/paramiko/ecdsakey.py:164: CryptographyDeprecationWarning: Support for unsafe construction of public numbers from encoded data will be removed in a future version. Please use EllipticCurvePublicKey.from_encoded_point
+  self.ecdsa_curve.curve_class(), pointinfo
+[10/Jun/2019 11:43:25] "GET /loginPage/ HTTP/1.0" 302 0
+[10/Jun/2019 11:43:26] "GET /macauth/ HTTP/1.0" 200 4836
+[10/Jun/2019 11:43:26] "POST /showdata/ HTTP/1.0" 200 12168
+[10/Jun/2019 13:55:24] "GET /loginPage/ HTTP/1.0" 200 2144
+Not Found: /favicon.ico
+[10/Jun/2019 13:55:24] "GET /favicon.ico HTTP/1.0" 404 2612
+[10/Jun/2019 13:55:26] "POST /login/ HTTP/1.0" 200 42
+[10/Jun/2019 13:55:26] "GET /macauth/ HTTP/1.0" 200 4836
+[10/Jun/2019 13:55:26] "POST /showdata/ HTTP/1.0" 200 12168
+[10/Jun/2019 14:41:47] "GET /macauth/ HTTP/1.0" 302 0
+[10/Jun/2019 14:41:47] "GET /loginPage/ HTTP/1.0" 200 2144
+Not Found: /favicon.ico
+[10/Jun/2019 14:41:48] "GET /favicon.ico HTTP/1.0" 404 2612
+[10/Jun/2019 14:41:49] "POST /login/ HTTP/1.0" 200 43
+[10/Jun/2019 14:41:49] "GET /macauth/ HTTP/1.0" 200 4836
+[10/Jun/2019 14:41:49] "POST /showdata/ HTTP/1.0" 200 12168
+[10/Jun/2019 14:41:50] "POST /showdata/ HTTP/1.0" 200 2
+[2019-06-10 22:44:58 +0800] [18734] [INFO] Starting gunicorn 19.9.0
+[2019-06-10 22:44:58 +0800] [18734] [INFO] Listening at: http://0.0.0.0:8000 (18734)
+[2019-06-10 22:44:58 +0800] [18734] [INFO] Using worker: sync
+[2019-06-10 22:44:58 +0800] [18737] [INFO] Booting worker with pid: 18737
+[2019-06-10 22:44:58 +0800] [18738] [INFO] Booting worker with pid: 18738
+[2019-06-10 22:44:58 +0800] [18741] [INFO] Booting worker with pid: 18741
+/usr/local/python3/lib/python3.6/site-packages/paramiko/ecdsakey.py:164: CryptographyDeprecationWarning: Support for unsafe construction of public numbers from encoded data will be removed in a future version. Please use EllipticCurvePublicKey.from_encoded_point
+  self.ecdsa_curve.curve_class(), pointinfo
+Not Found: /static/css/style.css
+Not Found: /static/jquery-3.3.1.js
+Not Found: /favicon.ico
+Not Found: /static/css/style.css
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/css/style.css
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/css/style.css
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/css/style.css
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/css/style.css
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/base.css
+/usr/local/python3/lib/python3.6/site-packages/paramiko/ecdsakey.py:164: CryptographyDeprecationWarning: Support for unsafe construction of public numbers from encoded data will be removed in a future version. Please use EllipticCurvePublicKey.from_encoded_point
+  self.ecdsa_curve.curve_class(), pointinfo
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/dashboard.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/css/forms.css
+Not Found: /static/admin/css/dashboard.css
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/forms.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/vendor/jquery/jquery.js
+Not Found: /static/admin/js/core.js
+Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+Not Found: /static/admin/js/actions.js
+Not Found: /static/admin/js/urlify.js
+Not Found: /static/admin/js/prepopulate.js
+Not Found: /static/admin/js/vendor/xregexp/xregexp.js
+Not Found: /static/admin/js/jquery.init.js
+Not Found: /static/admin/js/change_form.js
+Not Found: /static/admin/js/prepopulate_init.js
+Not Found: /static/admin/js/vendor/jquery/jquery.js
+Not Found: /static/admin/js/jquery.init.js
+Not Found: /static/admin/js/core.js
+Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+Not Found: /static/admin/js/actions.js
+Not Found: /static/admin/js/urlify.js
+Not Found: /static/admin/js/prepopulate.js
+Not Found: /static/admin/js/vendor/xregexp/xregexp.js
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/change_form.js
+Not Found: /static/admin/js/prepopulate_init.js
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/css/dashboard.css
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/forms.css
+Not Found: /static/admin/js/core.js
+Not Found: /static/admin/js/jquery.init.js
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+Not Found: /static/admin/js/actions.js
+Not Found: /static/admin/js/urlify.js
+Not Found: /static/admin/js/prepopulate.js
+Not Found: /static/admin/js/change_form.js
+Not Found: /static/admin/js/vendor/xregexp/xregexp.js
+Not Found: /static/admin/js/vendor/jquery/jquery.js
+Not Found: /static/admin/js/prepopulate_init.js
+Not Found: /static/admin/js/jquery.init.js
+Not Found: /static/admin/js/core.js
+Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+Not Found: /static/admin/js/actions.js
+Not Found: /static/admin/js/urlify.js
+Not Found: /static/admin/js/prepopulate.js
+Not Found: /static/admin/js/vendor/xregexp/xregexp.js
+Not Found: /static/admin/js/change_form.js
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/prepopulate_init.js
+[2019-06-11 16:53:13 +0800] [18734] [INFO] Handling signal: term
+[2019-06-11 08:53:13 +0000] [18738] [INFO] Worker exiting (pid: 18738)
+[2019-06-11 08:53:13 +0000] [18741] [INFO] Worker exiting (pid: 18741)
+shanghai 1111-1111-1111 <class 'str'> <class 'str'>
+172.19.192.2
+172.19.192.3
+[]
+[2019-06-11 08:53:13 +0000] [18737] [INFO] Worker exiting (pid: 18737)
+['0000-0000-0000']
+beijing 0000-0000-0000 <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+172.19.32.201
+172.19.32.202
+172.19.192.2
+172.19.192.3
+[11/Jun/2019 08:53:53] "GET /loginPage/ HTTP/1.0" 200 2144
+[11/Jun/2019 08:53:53] "GET /static/css/style.css HTTP/1.0" 200 6943
+[11/Jun/2019 08:53:53] "GET /static/jquery-3.3.1.js HTTP/1.0" 200 271751
+[11/Jun/2019 08:53:53] "GET /static/images/bg.jpg HTTP/1.0" 200 24224
+[11/Jun/2019 08:54:01] "POST /login/ HTTP/1.0" 200 42
+[11/Jun/2019 08:54:01] "GET /macauth HTTP/1.0" 301 0
+[11/Jun/2019 08:54:01] "GET /macauth/ HTTP/1.0" 200 4836
+[11/Jun/2019 08:54:01] "GET /static/css/index1.css HTTP/1.0" 200 1191
+[11/Jun/2019 08:54:01] "GET /static/js/bootstrap.js HTTP/1.0" 200 69707
+[11/Jun/2019 08:54:01] "GET /static/css/bootstrap.css HTTP/1.0" 200 146010
+[11/Jun/2019 08:54:01] "GET /static/images/logo.jpg HTTP/1.0" 200 17193
+[11/Jun/2019 08:54:01] "GET /static/images/pic.jpg HTTP/1.0" 200 8475
+[11/Jun/2019 08:54:01] "POST /showdata/ HTTP/1.0" 200 12168
+[11/Jun/2019 08:54:19] "GET /macauth/ HTTP/1.0" 200 4836
+[11/Jun/2019 08:54:19] "POST /showdata/ HTTP/1.0" 200 12168
+[11/Jun/2019 08:54:30] "GET /macauth/ HTTP/1.0" 200 4836
+[11/Jun/2019 08:54:31] "POST /showdata/ HTTP/1.0" 200 12168
+[11/Jun/2019 08:54:50] "POST /showdata/ HTTP/1.0" 200 12168
+[11/Jun/2019 09:02:06] "GET /macauth/ HTTP/1.0" 200 4836
+[11/Jun/2019 09:02:06] "POST /showdata/ HTTP/1.0" 200 12168
+Not Found: /favicon.ico
+[11/Jun/2019 09:02:06] "GET /favicon.ico HTTP/1.0" 404 2612
+[11/Jun/2019 09:02:06] "GET /macauth/ HTTP/1.0" 200 4836
+[11/Jun/2019 09:02:07] "POST /showdata/ HTTP/1.0" 200 12168
+[11/Jun/2019 09:02:22] "GET /macauth/ HTTP/1.0" 302 0
+[11/Jun/2019 09:02:22] "GET /loginPage HTTP/1.0" 301 0
+[11/Jun/2019 09:02:22] "GET /loginPage/ HTTP/1.0" 200 2144
+[11/Jun/2019 09:02:22] "GET /static/css/style.css HTTP/1.0" 200 6943
+[11/Jun/2019 09:02:22] "GET /static/jquery-3.3.1.js HTTP/1.0" 200 271751
+[11/Jun/2019 09:02:22] "GET /static/images/bg.jpg HTTP/1.0" 200 24224
+Not Found: /favicon.ico
+[11/Jun/2019 09:02:22] "GET /favicon.ico HTTP/1.0" 404 2612
+[11/Jun/2019 09:02:30] "POST /login/ HTTP/1.0" 200 42
+[11/Jun/2019 09:02:30] "GET /macauth HTTP/1.0" 301 0
+[11/Jun/2019 09:02:30] "GET /macauth/ HTTP/1.0" 200 4836
+[11/Jun/2019 09:02:30] "GET /static/css/index1.css HTTP/1.0" 200 1191
+[11/Jun/2019 09:02:30] "GET /static/images/logo.jpg HTTP/1.0" 200 17193
+[11/Jun/2019 09:02:30] "GET /static/js/bootstrap.js HTTP/1.0" 200 69707
+[11/Jun/2019 09:02:30] "GET /static/images/pic.jpg HTTP/1.0" 200 8475
+[11/Jun/2019 09:02:30] "GET /static/css/bootstrap.css HTTP/1.0" 200 146010
+[11/Jun/2019 09:02:30] "POST /showdata/ HTTP/1.0" 200 12168
+[11/Jun/2019 09:03:16] "POST /showdata/ HTTP/1.0" 200 324
+[11/Jun/2019 09:03:40] "POST /macedit/ HTTP/1.0" 200 7
+/usr/local/python3/lib/python3.6/site-packages/paramiko/ecdsakey.py:164: CryptographyDeprecationWarning: Support for unsafe construction of public numbers from encoded data will be removed in a future version. Please use EllipticCurvePublicKey.from_encoded_point
+  self.ecdsa_curve.curve_class(), pointinfo
+[11/Jun/2019 09:03:43] "POST /showdata/ HTTP/1.0" 200 342
+[11/Jun/2019 09:03:44] "POST /showdata/ HTTP/1.0" 200 12168
+[11/Jun/2019 09:03:44] "POST /showdata/ HTTP/1.0" 200 342
+[11/Jun/2019 09:03:47] "GET /macauth/ HTTP/1.0" 200 4836
+[11/Jun/2019 09:03:47] "POST /showdata/ HTTP/1.0" 200 12168
+[11/Jun/2019 09:03:50] "POST /showdata/ HTTP/1.0" 200 342
+[11/Jun/2019 09:07:28] "GET /macauth/ HTTP/1.0" 200 4836
+[11/Jun/2019 09:07:28] "POST /showdata/ HTTP/1.0" 200 12168
+Not Found: /favicon.ico
+[11/Jun/2019 09:07:28] "GET /favicon.ico HTTP/1.0" 404 2612
+[11/Jun/2019 09:16:44] "POST /showdata/ HTTP/1.0" 200 342
+[11/Jun/2019 10:10:06] "POST /showdata/ HTTP/1.0" 200 12168
+[11/Jun/2019 10:10:09] "GET /macauth/ HTTP/1.0" 302 0
+[11/Jun/2019 10:10:09] "GET /loginPage/ HTTP/1.0" 200 2144
+[11/Jun/2019 10:10:11] "POST /login/ HTTP/1.0" 200 42
+[11/Jun/2019 10:10:11] "GET /macauth/ HTTP/1.0" 200 4836
+[11/Jun/2019 10:10:11] "POST /showdata/ HTTP/1.0" 200 12168
+[11/Jun/2019 10:10:45] "POST /macedit/ HTTP/1.0" 200 7
+[11/Jun/2019 10:10:53] "POST /showdata/ HTTP/1.0" 200 12204
+[11/Jun/2019 10:10:54] "GET /macauth/ HTTP/1.0" 200 4836
+[11/Jun/2019 10:10:54] "POST /showdata/ HTTP/1.0" 200 12204
+[11/Jun/2019 10:24:11] "GET /macauth/ HTTP/1.0" 200 4836
+[11/Jun/2019 10:24:11] "POST /showdata/ HTTP/1.0" 200 12204
+[11/Jun/2019 10:24:22] "GET /macauth/ HTTP/1.0" 200 4836
+[11/Jun/2019 10:24:22] "POST /showdata/ HTTP/1.0" 200 12204
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 11, 2019 - 08:53:47
+Django version 2.1.7, using settings 'mac_auth.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+shenzhen 4c34-887b-d86a <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+shanghai 185e-0fed-ed88 <class 'str'> <class 'str'>
+shanghai a402-b87e-2318 <class 'str'> <class 'str'>
+172.19.192.2
+172.19.192.3
+[2019-06-11 18:29:58 +0800] [21783] [INFO] Starting gunicorn 19.9.0
+[2019-06-11 18:29:58 +0800] [21783] [INFO] Listening at: http://0.0.0.0:8000 (21783)
+[2019-06-11 18:29:58 +0800] [21783] [INFO] Using worker: sync
+[2019-06-11 18:29:58 +0800] [21786] [INFO] Booting worker with pid: 21786
+[2019-06-11 18:29:58 +0800] [21788] [INFO] Booting worker with pid: 21788
+[2019-06-11 18:29:58 +0800] [21790] [INFO] Booting worker with pid: 21790
+Internal Server Error: /macauth/
+Traceback (most recent call last):
+  File "/usr/local/python3/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/python3/lib/python3.6/site-packages/django/core/handlers/base.py", line 111, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "/usr/local/python3/lib/python3.6/site-packages/django/urls/resolvers.py", line 491, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/python3/lib/python3.6/site-packages/django/utils/functional.py", line 37, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/python3/lib/python3.6/site-packages/django/urls/resolvers.py", line 533, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/python3/lib/python3.6/site-packages/django/utils/functional.py", line 37, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/python3/lib/python3.6/site-packages/django/urls/resolvers.py", line 526, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/local/python3/lib/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 978, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 961, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 950, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 655, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 205, in _call_with_frames_removed
+  File "/root/django_project/mac_auth/mac_auth/urls.py", line 22, in <module>
+    urlpatterns += staticfiles_urlpatterns()
+NameError: name 'urlpatterns' is not defined
+[2019-06-11 10:31:17 +0000] [21788] [INFO] Worker exiting (pid: 21788)
+[2019-06-11 18:31:17 +0800] [21783] [INFO] Handling signal: term
+[2019-06-11 10:31:17 +0000] [21790] [INFO] Worker exiting (pid: 21790)
+[2019-06-11 10:31:17 +0000] [21786] [INFO] Worker exiting (pid: 21786)
+[2019-06-11 18:31:17 +0800] [21783] [INFO] Shutting down: Master
+[11/Jun/2019 10:31:32] "GET /macauth/ HTTP/1.0" 302 0
+[11/Jun/2019 10:31:32] "GET /loginPage HTTP/1.0" 301 0
+[11/Jun/2019 10:31:32] "GET /loginPage/ HTTP/1.0" 200 2144
+[11/Jun/2019 10:32:06] "GET /loginPage/ HTTP/1.0" 200 2144
+Not Found: /favicon.ico
+[11/Jun/2019 10:32:08] "GET /favicon.ico HTTP/1.0" 404 2612
+[11/Jun/2019 10:32:14] "GET /macauth/ HTTP/1.0" 200 4836
+[11/Jun/2019 10:32:14] "POST /showdata/ HTTP/1.0" 200 12204
+[11/Jun/2019 10:32:29] "POST /macedit/ HTTP/1.0" 200 7
+/usr/local/python3/lib/python3.6/site-packages/paramiko/ecdsakey.py:164: CryptographyDeprecationWarning: Support for unsafe construction of public numbers from encoded data will be removed in a future version. Please use EllipticCurvePublicKey.from_encoded_point
+  self.ecdsa_curve.curve_class(), pointinfo
+[11/Jun/2019 10:51:32] "POST /login/ HTTP/1.0" 200 43
+[11/Jun/2019 10:51:32] "GET /macauth/ HTTP/1.0" 200 4836
+[11/Jun/2019 10:51:35] "GET /macauth/ HTTP/1.0" 200 4836
+[11/Jun/2019 10:51:38] "POST /showdata/ HTTP/1.0" 200 342
+[11/Jun/2019 10:51:39] "POST /showdata/ HTTP/1.0" 200 2
+[11/Jun/2019 10:51:39] "POST /showdata/ HTTP/1.0" 200 576
+[11/Jun/2019 10:51:41] "POST /showdata/ HTTP/1.0" 200 12204
+[11/Jun/2019 10:51:45] "GET /macauth/ HTTP/1.0" 200 4836
+[11/Jun/2019 10:51:47] "POST /showdata/ HTTP/1.0" 200 12204
+[11/Jun/2019 10:51:47] "POST /showdata/ HTTP/1.0" 200 342
+[11/Jun/2019 10:51:51] "POST /showdata/ HTTP/1.0" 200 342
+[11/Jun/2019 10:51:55] "POST /showdata/ HTTP/1.0" 200 2
+[11/Jun/2019 10:51:55] "POST /showdata/ HTTP/1.0" 200 576
+[11/Jun/2019 10:51:55] "POST /showdata/ HTTP/1.0" 200 12204
+[11/Jun/2019 10:51:55] "POST /showdata/ HTTP/1.0" 200 12204
+[11/Jun/2019 10:51:56] "POST /showdata/ HTTP/1.0" 200 342
+[11/Jun/2019 10:52:00] "POST /showdata/ HTTP/1.0" 200 12204
+[11/Jun/2019 10:52:01] "GET /macauth/ HTTP/1.0" 200 4836
+[11/Jun/2019 10:52:04] "POST /showdata/ HTTP/1.0" 200 576
+[11/Jun/2019 10:52:05] "POST /showdata/ HTTP/1.0" 200 2
+[11/Jun/2019 10:52:07] "POST /showdata/ HTTP/1.0" 200 12204
+[11/Jun/2019 10:52:07] "POST /showdata/ HTTP/1.0" 200 342
+[11/Jun/2019 10:52:10] "GET /macauth/ HTTP/1.0" 200 4836
+[11/Jun/2019 10:52:11] "POST /showdata/ HTTP/1.0" 200 576
+[11/Jun/2019 10:52:11] "POST /showdata/ HTTP/1.0" 200 2
+[11/Jun/2019 10:52:14] "POST /showdata/ HTTP/1.0" 200 12204
+[11/Jun/2019 10:52:15] "POST /showdata/ HTTP/1.0" 200 576
+[11/Jun/2019 10:52:16] "POST /showdata/ HTTP/1.0" 200 342
+[11/Jun/2019 10:52:21] "POST /showdata/ HTTP/1.0" 200 12204
+[11/Jun/2019 10:52:22] "POST /showdata/ HTTP/1.0" 200 12204
+[11/Jun/2019 10:52:28] "POST /showdata/ HTTP/1.0" 200 12204
+[11/Jun/2019 10:52:37] "GET /macauth/ HTTP/1.0" 200 4836
+[11/Jun/2019 10:52:48] "POST /showdata/ HTTP/1.0" 200 12204
+[11/Jun/2019 10:53:12] "GET /macauth/ HTTP/1.0" 200 4836
+[11/Jun/2019 10:53:12] "POST /showdata/ HTTP/1.0" 200 12204
+[11/Jun/2019 10:53:13] "GET /macauth/ HTTP/1.0" 200 4836
+[11/Jun/2019 10:53:13] "POST /showdata/ HTTP/1.0" 200 12204
+[11/Jun/2019 10:53:13] "GET /macauth/ HTTP/1.0" 200 4836
+[11/Jun/2019 10:53:13] "POST /showdata/ HTTP/1.0" 200 12204
+[11/Jun/2019 10:53:15] "GET /macauth/ HTTP/1.0" 200 4836
+[11/Jun/2019 10:53:15] "POST /showdata/ HTTP/1.0" 200 12204
+[11/Jun/2019 10:53:15] "GET /macauth/ HTTP/1.0" 200 4836
+[11/Jun/2019 10:53:15] "POST /showdata/ HTTP/1.0" 200 12204
+[11/Jun/2019 10:53:26] "GET /macauth/ HTTP/1.0" 200 4836
+[11/Jun/2019 10:53:26] "POST /showdata/ HTTP/1.0" 200 12204
+[11/Jun/2019 11:26:46] "POST /macedit/ HTTP/1.0" 200 7
+/usr/local/python3/lib/python3.6/site-packages/paramiko/ecdsakey.py:164: CryptographyDeprecationWarning: Support for unsafe construction of public numbers from encoded data will be removed in a future version. Please use EllipticCurvePublicKey.from_encoded_point
+  self.ecdsa_curve.curve_class(), pointinfo
+[11/Jun/2019 15:15:48] "GET /macauth/ HTTP/1.0" 302 0
+[11/Jun/2019 15:15:48] "GET /loginPage/ HTTP/1.0" 200 2144
+[11/Jun/2019 17:47:53] "GET /macauth/ HTTP/1.0" 302 0
+[11/Jun/2019 17:47:53] "GET /loginPage/ HTTP/1.0" 200 2144
+[11/Jun/2019 17:47:54] "POST /login/ HTTP/1.0" 200 42
+[11/Jun/2019 17:47:54] "GET /macauth/ HTTP/1.0" 200 4836
+[11/Jun/2019 17:47:56] "POST /showdata/ HTTP/1.0" 200 12222
+[11/Jun/2019 17:48:27] "POST /macedit/ HTTP/1.0" 200 7
+[11/Jun/2019 17:49:50] "POST /showdata/ HTTP/1.0" 200 342
+[11/Jun/2019 17:50:15] "POST /macedit/ HTTP/1.0" 200 7
+[12/Jun/2019 10:34:12] "GET /macauth/ HTTP/1.0" 302 0
+[12/Jun/2019 10:34:12] "GET /loginPage HTTP/1.0" 301 0
+[12/Jun/2019 10:34:12] "GET /loginPage/ HTTP/1.0" 200 2144
+[12/Jun/2019 10:34:12] "GET /static/css/style.css HTTP/1.0" 200 6943
+[12/Jun/2019 10:34:12] "GET /static/jquery-3.3.1.js HTTP/1.0" 200 271751
+[12/Jun/2019 10:34:13] "GET /static/images/bg.jpg HTTP/1.0" 200 24224
+Not Found: /favicon.ico
+[12/Jun/2019 10:34:13] "GET /favicon.ico HTTP/1.0" 404 2612
+[12/Jun/2019 10:34:14] "POST /login/ HTTP/1.0" 200 43
+[12/Jun/2019 10:34:15] "GET /macauth HTTP/1.0" 301 0
+[12/Jun/2019 10:34:15] "GET /macauth/ HTTP/1.0" 200 4836
+[12/Jun/2019 10:34:15] "GET /static/css/index1.css HTTP/1.0" 200 1191
+[12/Jun/2019 10:34:15] "GET /static/js/bootstrap.js HTTP/1.0" 200 69707
+[12/Jun/2019 10:34:15] "GET /static/css/bootstrap.css HTTP/1.0" 200 146010
+[12/Jun/2019 10:34:15] "GET /static/images/logo.jpg HTTP/1.0" 200 17193
+[12/Jun/2019 10:34:15] "GET /static/images/pic.jpg HTTP/1.0" 200 8475
+[12/Jun/2019 10:34:25] "GET /static/css/bootstrap.css.map HTTP/1.0" 200 389287
+[12/Jun/2019 10:34:25] "POST /showdata/ HTTP/1.0" 200 12240
+[12/Jun/2019 10:34:55] "GET /macauth/ HTTP/1.0" 200 4836
+[12/Jun/2019 10:35:05] "POST /showdata/ HTTP/1.0" 200 12240
+[12/Jun/2019 10:36:58] "POST /showdata/ HTTP/1.0" 200 12240
+[12/Jun/2019 10:37:43] "POST /showdata/ HTTP/1.0" 200 12240
+[12/Jun/2019 10:42:41] "GET /macauth/ HTTP/1.0" 200 4836
+[12/Jun/2019 10:42:47] "POST /showdata/ HTTP/1.0" 200 12240
+[12/Jun/2019 10:44:59] "GET /macauth/ HTTP/1.0" 302 0
+[12/Jun/2019 10:44:59] "GET /loginPage/ HTTP/1.0" 200 2144
+[12/Jun/2019 10:45:01] "POST /login/ HTTP/1.0" 200 42
+[12/Jun/2019 10:45:01] "GET /macauth/ HTTP/1.0" 200 4836
+[12/Jun/2019 10:45:12] "POST /showdata/ HTTP/1.0" 200 12240
+[12/Jun/2019 10:45:41] "POST /macedit/ HTTP/1.0" 200 7
+[12/Jun/2019 10:49:29] "GET /macauth/ HTTP/1.0" 200 4836
+[12/Jun/2019 10:49:31] "POST /showdata/ HTTP/1.0" 200 2
+[12/Jun/2019 10:49:46] "POST /showdata/ HTTP/1.0" 200 12258
+[12/Jun/2019 10:49:50] "POST /showdata/ HTTP/1.0" 200 12258
+[2019-06-12 18:50:09 +0800] [25457] [INFO] Starting gunicorn 19.9.0
+[2019-06-12 18:50:09 +0800] [25457] [INFO] Listening at: http://0.0.0.0:8000 (25457)
+[2019-06-12 18:50:09 +0800] [25457] [INFO] Using worker: sync
+[2019-06-12 18:50:09 +0800] [25460] [INFO] Booting worker with pid: 25460
+[2019-06-12 18:50:09 +0800] [25462] [INFO] Booting worker with pid: 25462
+[2019-06-12 18:50:09 +0800] [25464] [INFO] Booting worker with pid: 25464
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/login.css
+/usr/local/python3/lib/python3.6/site-packages/paramiko/ecdsakey.py:164: CryptographyDeprecationWarning: Support for unsafe construction of public numbers from encoded data will be removed in a future version. Please use EllipticCurvePublicKey.from_encoded_point
+  self.ecdsa_curve.curve_class(), pointinfo
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/css/base.css
+Not Found: /
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/responsive.css
+/usr/local/python3/lib/python3.6/site-packages/paramiko/ecdsakey.py:164: CryptographyDeprecationWarning: Support for unsafe construction of public numbers from encoded data will be removed in a future version. Please use EllipticCurvePublicKey.from_encoded_point
+  self.ecdsa_curve.curve_class(), pointinfo
+Not Found: /
+Invalid HTTP_HOST header: 'macauth'. You may need to add 'macauth' to ALLOWED_HOSTS.
+Bad Request: /
+Invalid HTTP_HOST header: 'macauth'. You may need to add 'macauth' to ALLOWED_HOSTS.
+Bad Request: /
+Invalid HTTP_HOST header: 'macauth'. You may need to add 'macauth' to ALLOWED_HOSTS.
+Bad Request: /
+Invalid HTTP_HOST header: 'macauth'. You may need to add 'macauth' to ALLOWED_HOSTS.
+Bad Request: /
+Invalid HTTP_HOST header: 'macauth'. You may need to add 'macauth' to ALLOWED_HOSTS.
+Bad Request: /
+Invalid HTTP_HOST header: 'macauth'. You may need to add 'macauth' to ALLOWED_HOSTS.
+Bad Request: /
+Invalid HTTP_HOST header: 'macauth'. You may need to add 'macauth' to ALLOWED_HOSTS.
+Bad Request: /
+[2019-06-12 19:14:10 +0800] [25457] [INFO] Handling signal: term
+[2019-06-12 11:14:10 +0000] [25460] [INFO] Worker exiting (pid: 25460)
+shenzhen DC53-60A0-FE38 <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+[2019-06-12 11:14:11 +0000] [25462] [INFO] Worker exiting (pid: 25462)
+172.19.32.201
+172.19.32.202
+['802b-f9b6-8f7d']
+beijing 802b-f9b6-8f7d <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+/usr/local/python3/lib/python3.6/site-packages/paramiko/ecdsakey.py:164: CryptographyDeprecationWarning: Support for unsafe construction of public numbers from encoded data will be removed in a future version. Please use EllipticCurvePublicKey.from_encoded_point
+  self.ecdsa_curve.curve_class(), pointinfo
+[2019-06-12 11:14:11 +0000] [25464] [INFO] Worker exiting (pid: 25464)
+['1111-1111-1111']
+beijing 1111-1111-1111 <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+[2019-06-12 19:15:15 +0800] [25577] [INFO] Starting gunicorn 19.9.0
+[2019-06-12 19:15:15 +0800] [25577] [INFO] Listening at: http://0.0.0.0:8000 (25577)
+[2019-06-12 19:15:15 +0800] [25577] [INFO] Using worker: sync
+[2019-06-12 19:15:15 +0800] [25580] [INFO] Booting worker with pid: 25580
+[2019-06-12 19:15:15 +0800] [25581] [INFO] Booting worker with pid: 25581
+[2019-06-12 19:15:15 +0800] [25584] [INFO] Booting worker with pid: 25584
+Not Found: /
+Not Found: /login/loginPage
+Not Found: /login/loginPage
+Not Found: /login/loginPage
+Not Found: /login/loginPage
+Not Found: /login/loginPage
+Not Found: /login/loginPage
+Not Found: /login/loginPage
+Not Found: /login/loginPage
+Not Found: /login/loginPage
+Not Found: /login/loginPage
+Not Found: /login/loginPage
+Not Found: /login/loginPage
+Not Found: /login/loginPage
+Not Found: /login/loginPage
+Not Found: /login/loginPage
+Not Found: /login/loginPage/login
+Not Found: /login/loginPage
+Not Found: /login/login
+Not Found: /login/login
+Not Found: /login/login
+Not Found: /login/login
+Not Found: /login/login
+Not Found: /login/login
+Not Found: /login/login
+Not Found: /login/login
+Not Found: /login/login
+Not Found: /login/favicon.ico
+Not Found: /login/loginPage
+Not Found: /login/loginPage
+Not Found: /static/css/style.css
+Not Found: /static/jquery-3.3.1.js
+Not Found: /favicon.ico
+Not Found: /
+Not Found: /login/loginPage
+Not Found: /
+Not Found: /static/css/style.css
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/css/style.css
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/css/style.css
+Not Found: /static/jquery-3.3.1.js
+Not Found: /loginloginPage
+Not Found: /loginloginPage
+Not Found: /loginloginPage
+Not Found: /loginlogin/
+Not Found: /loginlogin/
+Not Found: /loginlogin/
+Not Found: /loginfavicon.ico
+Not Found: /loginlogin/
+Not Found: /loginlogin/
+Not Found: /loginlogin/
+Not Found: /loginlogin/
+Not Found: /static/css/style.css
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/css/style.css
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/css/style.css
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/css/style.css
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/css/index1.css
+Not Found: /static/css/bootstrap.css
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/js/bootstrap.js
+Not Found: /static/images/logo.jpg
+Not Found: /static/images/pic.jpg
+Not Found: /favicon.ico
+Not Found: /static/css/index1.css
+Not Found: /static/css/bootstrap.css
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/js/bootstrap.js
+Not Found: /static/images/logo.jpg
+Not Found: /static/images/pic.jpg
+Not Found: /favicon.ico
+Not Found: /static/css/index1.css
+Not Found: /static/css/bootstrap.css
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/js/bootstrap.js
+Not Found: /static/images/logo.jpg
+Not Found: /static/images/pic.jpg
+Not Found: /favicon.ico
+Not Found: /static/css/index1.css
+Not Found: /static/css/bootstrap.css
+Not Found: /static/js/bootstrap.js
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/images/logo.jpg
+Not Found: /static/js/bootstrap.js
+Not Found: /static/images/pic.jpg
+Not Found: /static/css/index1.css
+Not Found: /static/css/bootstrap.css
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/js/bootstrap.js
+Not Found: /static/images/logo.jpg
+Not Found: /static/images/pic.jpg
+Not Found: /static/css/index1.css
+Not Found: /static/css/bootstrap.css
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/js/bootstrap.js
+Not Found: /static/images/logo.jpg
+Not Found: /static/images/pic.jpg
+Not Found: /static/css/index1.css
+Not Found: /static/css/bootstrap.css
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/js/bootstrap.js
+Not Found: /static/images/logo.jpg
+Not Found: /static/images/pic.jpg
+Not Found: /static/jquery-3.3.1.js
+Not Found: /
+Not Found: /static/css/style.css
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/css/style.css
+Not Found: /static/jquery-3.3.1.js
+Not Found: /favicon.ico
+Not Found: /static/jquery-3.3.1.js
+Not Found: /
+Not Found: /
+Not Found: /favicon.ico
+Not Found: /loginlogin/
+Not Found: /login/login/
+Not Found: /login/login/
+Not Found: /login/loginPage
+Not Found: /login/loginPage
+Not Found: /static/css/style.css
+Not Found: /static/jquery-3.3.1.js
+Not Found: /login/loginPage
+Not Found: /loginPage/loginPage
+Not Found: /loginPage/static/css/style.css
+Not Found: /loginPage/static/jquery-3.3.1.js
+Not Found: /loginPage/favicon.ico
+Not Found: /
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/jquery-3.3.1.js
+/usr/local/python3/lib/python3.6/site-packages/paramiko/ecdsakey.py:164: CryptographyDeprecationWarning: Support for unsafe construction of public numbers from encoded data will be removed in a future version. Please use EllipticCurvePublicKey.from_encoded_point
+  self.ecdsa_curve.curve_class(), pointinfo
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/jquery-3.3.1.js
+[2019-06-12 19:42:33 +0800] [25658] [INFO] Starting gunicorn 19.9.0
+[2019-06-12 19:42:33 +0800] [25658] [INFO] Listening at: http://0.0.0.0:8000 (25658)
+[2019-06-12 19:42:33 +0800] [25658] [INFO] Using worker: sync
+[2019-06-12 19:42:33 +0800] [25661] [INFO] Booting worker with pid: 25661
+[2019-06-12 19:42:33 +0800] [25663] [INFO] Booting worker with pid: 25663
+[2019-06-12 19:42:33 +0800] [25665] [INFO] Booting worker with pid: 25665
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/js/jquery-3.3.1.js
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/js/jquery-3.3.1.js
+Not Found: /static/js/jquery-3.3.1.js
+[2019-06-12 11:55:14 +0000] [25661] [INFO] Worker exiting (pid: 25661)
+[2019-06-12 11:55:14 +0000] [25663] [INFO] Worker exiting (pid: 25663)
+[2019-06-12 11:55:14 +0000] [25665] [INFO] Worker exiting (pid: 25665)
+[2019-06-12 19:55:14 +0800] [25658] [INFO] Handling signal: term
+[2019-06-12 19:55:14 +0800] [25658] [INFO] Shutting down: Master
+[12/Jun/2019 11:55:32] "GET /loginPage/ HTTP/1.0" 200 2144
+[12/Jun/2019 11:55:32] "GET /static/jquery-3.3.1.js HTTP/1.0" 200 271751
+[12/Jun/2019 11:55:34] "POST /login/ HTTP/1.0" 200 43
+[12/Jun/2019 11:55:34] "GET /macauth/ HTTP/1.0" 200 4836
+[12/Jun/2019 11:55:34] "GET /static/css/index1.css HTTP/1.0" 200 1191
+[12/Jun/2019 11:55:34] "GET /static/css/bootstrap.css HTTP/1.0" 200 146010
+[12/Jun/2019 11:55:34] "GET /static/js/bootstrap.js HTTP/1.0" 200 69707
+[12/Jun/2019 11:55:34] "GET /static/images/logo.jpg HTTP/1.0" 200 17193
+[12/Jun/2019 11:55:34] "GET /static/images/pic.jpg HTTP/1.0" 200 8475
+[12/Jun/2019 11:55:34] "POST /showdata/ HTTP/1.0" 200 12258
+[12/Jun/2019 11:55:37] "POST /showdata/ HTTP/1.0" 200 18
+[12/Jun/2019 11:55:43] "POST /macedit/ HTTP/1.0" 200 7
+/usr/local/python3/lib/python3.6/site-packages/paramiko/ecdsakey.py:164: CryptographyDeprecationWarning: Support for unsafe construction of public numbers from encoded data will be removed in a future version. Please use EllipticCurvePublicKey.from_encoded_point
+  self.ecdsa_curve.curve_class(), pointinfo
+[12/Jun/2019 11:55:59] "POST /macedit/ HTTP/1.0" 200 7
+[2019-06-12 19:56:37 +0800] [25761] [INFO] Starting gunicorn 19.9.0
+[2019-06-12 19:56:37 +0800] [25761] [INFO] Listening at: http://0.0.0.0:8000 (25761)
+[2019-06-12 19:56:37 +0800] [25761] [INFO] Using worker: sync
+[2019-06-12 19:56:37 +0800] [25764] [INFO] Booting worker with pid: 25764
+[2019-06-12 19:56:37 +0800] [25766] [INFO] Booting worker with pid: 25766
+[2019-06-12 19:56:37 +0800] [25767] [INFO] Booting worker with pid: 25767
+Not Found: /static/css/style.css
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/css/style.css
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/css/style.css
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/css/style.css
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/css/style.css
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/css/style.css
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/css/style.css
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/css/style.css
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/css/style.css
+Not Found: /static/jquery-3.3.1.js
+Not Found: /favicon.ico
+Not Found: /
+Not Found: /favicon.ico
+Not Found: /static/jquery-3.3.1.js
+Not Found: /
+Not Found: /static/css/style.css
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static
+Not Found: /staticjquery-3.3.1.js
+Not Found: /staticjquery-3.3.1.js
+Not Found: /staticjquery-3.3.1.js
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/jquery-3.3.1.js
+Not Found: /
+Not Found: /static/css/style.css
+Not Found: /static/jquery-3.3.1.js
+Not Found: /favicon.ico
+Not Found: /static/jquery-3.3.1.js
+Not Found: /favicon.ico
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/jquery-3.3.1.js
+Not Found: /
+Not Found: /static/jquery-3.3.1.js
+[2019-06-12 14:45:04 +0000] [25767] [INFO] Worker exiting (pid: 25767)
+[2019-06-12 14:45:04 +0000] [25764] [INFO] Worker exiting (pid: 25764)
+[2019-06-12 14:45:04 +0000] [25766] [INFO] Worker exiting (pid: 25766)
+[2019-06-12 22:45:04 +0800] [25761] [INFO] Handling signal: term
+[2019-06-12 22:45:04 +0800] [25761] [INFO] Shutting down: Master
+[2019-06-12 22:45:49 +0800] [26158] [INFO] Starting gunicorn 19.9.0
+[2019-06-12 22:45:49 +0800] [26158] [INFO] Listening at: http://0.0.0.0:8000 (26158)
+[2019-06-12 22:45:49 +0800] [26158] [INFO] Using worker: sync
+[2019-06-12 22:45:49 +0800] [26161] [INFO] Booting worker with pid: 26161
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/jquery-3.3.1.js
+Not Found: /
+Not Found: /lgoi
+Not Found: /static/jquery-3.3.1.js
+Not Found: /static/jquery-3.3.1.js
+[2019-06-12 14:47:09 +0000] [26161] [INFO] Worker exiting (pid: 26161)
+[2019-06-12 22:47:09 +0800] [26158] [INFO] Handling signal: term
+[2019-06-12 22:47:09 +0800] [26158] [INFO] Shutting down: Master
+Unhandled exception in thread started by <function check_errors.<locals>.wrapper at 0x7f941091f598>
+Traceback (most recent call last):
+  File "/usr/local/python3/lib/python3.6/site-packages/django/utils/autoreload.py", line 225, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/local/python3/lib/python3.6/site-packages/django/core/management/commands/runserver.py", line 117, in inner_run
+    self.check(display_num_errors=True)
+  File "/usr/local/python3/lib/python3.6/site-packages/django/core/management/base.py", line 425, in check
+    raise SystemCheckError(msg)
+django.core.management.base.SystemCheckError: SystemCheckError: System check identified some issues:
+
+ERRORS:
+?: (staticfiles.E002) The STATICFILES_DIRS setting should not contain the STATIC_ROOT setting.
+
+System check identified 1 issue (0 silenced).
+Performing system checks...
+
+Unhandled exception in thread started by <function check_errors.<locals>.wrapper at 0x7f5524e29598>
+Traceback (most recent call last):
+  File "/usr/local/python3/lib/python3.6/site-packages/django/utils/autoreload.py", line 225, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/local/python3/lib/python3.6/site-packages/django/core/management/commands/runserver.py", line 117, in inner_run
+    self.check(display_num_errors=True)
+  File "/usr/local/python3/lib/python3.6/site-packages/django/core/management/base.py", line 425, in check
+    raise SystemCheckError(msg)
+django.core.management.base.SystemCheckError: SystemCheckError: System check identified some issues:
+
+ERRORS:
+?: (staticfiles.E002) The STATICFILES_DIRS setting should not contain the STATIC_ROOT setting.
+
+System check identified 1 issue (0 silenced).
+Performing system checks...
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 12, 2019 - 14:48:36
+Django version 2.1.7, using settings 'mac_auth.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[12/Jun/2019 14:48:53] "GET /loginPage/ HTTP/1.0" 200 2144
+[12/Jun/2019 14:48:53] "GET /static/jquery-3.3.1.js HTTP/1.0" 404 1660
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 12, 2019 - 14:48:41
+Django version 2.1.7, using settings 'mac_auth.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[12/Jun/2019 14:50:09] "GET /macauth/ HTTP/1.0" 302 0
+[12/Jun/2019 14:50:09] "GET /loginPage HTTP/1.0" 301 0
+[12/Jun/2019 14:50:09] "GET /loginPage/ HTTP/1.0" 200 2144
+[12/Jun/2019 14:50:11] "POST /login/ HTTP/1.0" 200 42
+[12/Jun/2019 14:50:11] "GET /macauth/ HTTP/1.0" 200 4836
+[12/Jun/2019 14:50:11] "POST /showdata/ HTTP/1.0" 200 12258
+[12/Jun/2019 14:50:15] "GET /macauth/ HTTP/1.0" 200 4836
+[12/Jun/2019 14:50:15] "POST /showdata/ HTTP/1.0" 200 12258
+[12/Jun/2019 14:50:20] "GET /loginPage/ HTTP/1.0" 200 2144
+[12/Jun/2019 14:50:20] "GET /static/jquery-3.3.1.js HTTP/1.0" 200 271751
+[12/Jun/2019 14:50:21] "GET /loginPage/ HTTP/1.0" 200 2144
+[12/Jun/2019 14:50:27] "POST /macedit/ HTTP/1.0" 200 7
+[12/Jun/2019 14:50:27] "POST /login/ HTTP/1.0" 200 43
+[12/Jun/2019 14:50:27] "GET /macauth/ HTTP/1.0" 200 4836
+[12/Jun/2019 14:50:27] "GET /static/css/index1.css HTTP/1.0" 304 0
+[12/Jun/2019 14:50:27] "GET /static/images/logo.jpg HTTP/1.0" 304 0
+[12/Jun/2019 14:50:27] "GET /static/images/pic.jpg HTTP/1.0" 304 0
+[12/Jun/2019 14:50:27] "POST /showdata/ HTTP/1.0" 200 12276
+[12/Jun/2019 14:50:27] "GET /static/css/bootstrap.css.map HTTP/1.0" 200 389287
+/usr/local/python3/lib/python3.6/site-packages/paramiko/ecdsakey.py:164: CryptographyDeprecationWarning: Support for unsafe construction of public numbers from encoded data will be removed in a future version. Please use EllipticCurvePublicKey.from_encoded_point
+  self.ecdsa_curve.curve_class(), pointinfo
+[12/Jun/2019 14:50:30] "GET /macauth/ HTTP/1.0" 200 4836
+[12/Jun/2019 14:50:30] "POST /showdata/ HTTP/1.0" 200 12276
+[12/Jun/2019 14:50:39] "GET /macauth/ HTTP/1.0" 302 0
+[12/Jun/2019 14:50:39] "GET /loginPage HTTP/1.0" 301 0
+[12/Jun/2019 14:50:39] "GET /loginPage/ HTTP/1.0" 200 2144
+[12/Jun/2019 14:50:40] "POST /login/ HTTP/1.0" 200 43
+[12/Jun/2019 14:50:40] "GET /macauth/ HTTP/1.0" 200 4836
+[12/Jun/2019 14:50:41] "POST /showdata/ HTTP/1.0" 200 12276
+[12/Jun/2019 14:55:43] "POST /macedit/ HTTP/1.0" 200 7
+[12/Jun/2019 14:56:00] "POST /macedit/ HTTP/1.0" 200 7
+[12/Jun/2019 15:02:00] "GET /static/jquery-3.3.1.js HTTP/1.0" 200 271751
+[12/Jun/2019 15:15:02] "POST /showdata/ HTTP/1.0" 200 12258
+[12/Jun/2019 15:15:03] "POST /showdata/ HTTP/1.0" 200 396
+[12/Jun/2019 15:15:03] "POST /showdata/ HTTP/1.0" 200 12258
+[12/Jun/2019 15:15:04] "GET /macauth/ HTTP/1.0" 200 4836
+[12/Jun/2019 15:15:05] "POST /showdata/ HTTP/1.0" 200 12258
+[12/Jun/2019 15:15:07] "POST /showdata/ HTTP/1.0" 200 396
+[12/Jun/2019 15:26:41] "POST /macedit/ HTTP/1.0" 200 7
+Not Found: /
+[12/Jun/2019 15:48:14] "GET / HTTP/1.0" 404 2570
+[12/Jun/2019 15:48:18] "GET /login HTTP/1.0" 301 0
+[12/Jun/2019 15:48:18] "GET /login/ HTTP/1.0" 302 0
+[12/Jun/2019 15:48:18] "GET /loginPage HTTP/1.0" 301 0
+[12/Jun/2019 15:48:18] "GET /loginPage/ HTTP/1.0" 200 2144
+Not Found: /
+[12/Jun/2019 15:49:36] "GET / HTTP/1.0" 404 2570
+[12/Jun/2019 15:49:45] "GET /login/ HTTP/1.0" 302 0
+[12/Jun/2019 15:49:45] "GET /loginPage/ HTTP/1.0" 200 2144
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 12, 2019 - 14:50:05
+Django version 2.1.7, using settings 'mac_auth.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+shanghai acbc-32d1-1563 <class 'str'> <class 'str'>
+172.19.192.2
+172.19.192.3
+172.19.192.2
+172.19.192.3
+shenzhen 185e-0fa1-7fbb <class 'str'> <class 'str'>
+shenzhen 185E-0FA1-55BD <class 'str'> <class 'str'>
+shenzhen DC53-60A0-FE3D <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+Not Found: /
+[12/Jun/2019 15:51:13] "GET / HTTP/1.0" 404 2570
+[12/Jun/2019 15:51:18] "GET /login/ HTTP/1.0" 302 0
+[12/Jun/2019 15:51:18] "GET /loginPage/ HTTP/1.0" 200 2144
+[12/Jun/2019 15:51:32] "GET /login/ HTTP/1.0" 302 0
+[12/Jun/2019 15:51:32] "GET /loginPage/ HTTP/1.0" 200 2144
+[12/Jun/2019 15:52:32] "GET /login/ HTTP/1.1" 302 0
+[12/Jun/2019 15:52:32] "GET /loginPage/ HTTP/1.1" 200 2144
+[12/Jun/2019 15:52:32] "GET /static/css/style.css HTTP/1.1" 200 6943
+[12/Jun/2019 15:52:33] "GET /static/jquery-3.3.1.js HTTP/1.1" 200 271751
+[12/Jun/2019 15:52:33] "GET /static/images/bg.jpg HTTP/1.1" 200 24224
+Not Found: /
+[12/Jun/2019 15:52:35] "GET / HTTP/1.0" 404 2570
+[12/Jun/2019 15:53:25] "GET /login/ HTTP/1.0" 302 0
+[12/Jun/2019 15:53:25] "GET /loginPage/ HTTP/1.0" 200 2144
+[12/Jun/2019 15:54:31] "GET /login/ HTTP/1.0" 302 0
+[12/Jun/2019 15:54:31] "GET /loginPage/ HTTP/1.0" 200 2144
+[12/Jun/2019 15:54:33] "POST /login/ HTTP/1.0" 200 43
+[12/Jun/2019 15:54:33] "GET /macauth/ HTTP/1.0" 200 4836
+[12/Jun/2019 15:54:33] "POST /showdata/ HTTP/1.0" 200 12258
+[2019-06-12 23:55:20 +0800] [42851] [INFO] Starting gunicorn 19.9.0
+[2019-06-12 23:55:20 +0800] [42851] [INFO] Listening at: http://0.0.0.0:8000 (42851)
+[2019-06-12 23:55:20 +0800] [42851] [INFO] Using worker: sync
+[2019-06-12 23:55:20 +0800] [42854] [INFO] Booting worker with pid: 42854
+[2019-06-12 23:55:20 +0800] [42855] [INFO] Booting worker with pid: 42855
+[2019-06-12 23:55:20 +0800] [42856] [INFO] Booting worker with pid: 42856
+Not Found: /
+Not Found: /favicon.ico
+Not Found: /
+Not Found: /favicon.ico
+/usr/local/python3/lib/python3.6/site-packages/paramiko/ecdsakey.py:164: CryptographyDeprecationWarning: Support for unsafe construction of public numbers from encoded data will be removed in a future version. Please use EllipticCurvePublicKey.from_encoded_point
+  self.ecdsa_curve.curve_class(), pointinfo
+Not Found: /
+Not Found: /
+Not Found: /favicon.ico
+Not Found: /
+Not Found: /favicon.ico
+Not Found: /
+[2019-06-13 05:14:48 +0800] [42851] [INFO] Handling signal: hup
+[2019-06-13 05:14:48 +0800] [42851] [INFO] Hang up: Master
+[2019-06-13 05:14:48 +0800] [45205] [INFO] Booting worker with pid: 45205
+[2019-06-13 05:14:48 +0800] [45206] [INFO] Booting worker with pid: 45206
+[2019-06-13 05:14:48 +0800] [45207] [INFO] Booting worker with pid: 45207
+/usr/local/python3/lib/python3.6/site-packages/paramiko/ecdsakey.py:164: CryptographyDeprecationWarning: Support for unsafe construction of public numbers from encoded data will be removed in a future version. Please use EllipticCurvePublicKey.from_encoded_point
+  self.ecdsa_curve.curve_class(), pointinfo
+Not Found: /favicon.ico
+/usr/local/python3/lib/python3.6/site-packages/paramiko/ecdsakey.py:164: CryptographyDeprecationWarning: Support for unsafe construction of public numbers from encoded data will be removed in a future version. Please use EllipticCurvePublicKey.from_encoded_point
+  self.ecdsa_curve.curve_class(), pointinfo
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+/usr/local/python3/lib/python3.6/site-packages/paramiko/ecdsakey.py:164: CryptographyDeprecationWarning: Support for unsafe construction of public numbers from encoded data will be removed in a future version. Please use EllipticCurvePublicKey.from_encoded_point
+  self.ecdsa_curve.curve_class(), pointinfo
+Not Found: /favicon.ico
+Not Found: /static/css/index1.css
+Not Found: /static/js/bootstrap.js
+Not Found: /static/css/bootstrap.css
+Not Found: /static/images/logo.jpg
+Not Found: /static/images/pic.jpg
+[2019-06-17 17:09:05 +0800] [42851] [INFO] Handling signal: term
+[2019-06-17 09:09:05 +0000] [45207] [INFO] Worker exiting (pid: 45207)
+[2019-06-17 09:09:06 +0000] [45206] [INFO] Worker exiting (pid: 45206)
+shenzhen B469-2147-A2F2 <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+shenzhen c85b-7641-c738 <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+172.19.24.201
+172.19.24.202
+shenzhen 185e-0f55-f203 <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+172.19.24.201
+172.19.24.202
+shenzhen b469-2147-b247 <class 'str'> <class 'str'>
+shenzhen 04d3-b08f-0e8f <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+172.19.24.201
+172.19.24.202
+shenzhen DC53-60ED-A01C <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+chengdu e84e-0644-0f8c <class 'str'> <class 'str'>
+172.19.36.201
+172.19.36.202
+shenzhen 185E-0F55-B0D1 <class 'str'> <class 'str'>
+shenzhen B469-214A-779D <class 'str'> <class 'str'>
+shenzhen C8FF-2859-9173 <class 'str'> <class 'str'>
+shenzhen A0A4-C574-B305 <class 'str'> <class 'str'>
+shenzhen D43B-040B-3A6F <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+shenzhen 4845-20fb-9636 <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+shenzhen c821-5867-2a6e <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+shenzhen c85b-7641-c68d <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+shenzhen dc53-60ed-7e5c <class 'str'> <class 'str'>
+shenzhen 482a-e306-ed08 <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+172.19.24.201
+172.19.24.202
+shenzhen 185e-0fa1-82d6 <class 'str'> <class 'str'>
+shenzhen 30b4-9eea-f260 <class 'str'> <class 'str'>
+shenzhen 04d3-b041-e745 <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+shenzhen 482a-e321-1448 <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+[2019-06-17 09:09:06 +0000] [45205] [INFO] Worker exiting (pid: 45205)
+shenzhen B469-214a-936d <class 'str'> <class 'str'>
+shenzhen B469-2168-de6d <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+shenzhen B469-2146-17E8 <class 'str'> <class 'str'>
+shenzhen CA21-5867-2A6E <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+shenzhen 482a-e312-dd48 <class 'str'> <class 'str'>
+shenzhen a402-b96c-0520 <class 'str'> <class 'str'>
+shenzhen 482a-e321-13f8 <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+shenzhen 1002-B5B1-8613 <class 'str'> <class 'str'>
+shenzhen DC53-60ED-9C61 <class 'str'> <class 'str'>
+shenzhen DC53-609D-C948 <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+shenzhen C8FF-2859-16C5 <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+172.19.24.201
+172.19.24.202
+shenzhen A602-B96C-414D <class 'str'> <class 'str'>
+shenzhen B886-8746-D4DF <class 'str'> <class 'str'>
+shenzhen 00E1-8CB4-C80A <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+172.19.24.201
+172.19.24.202
+shenzhen A402-B96C-414D <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+172.19.24.201
+172.19.24.202
+[2019-06-17 17:09:36 +0800] [42851] [INFO] Shutting down: Master
+[2019-06-17 17:09:57 +0800] [60927] [INFO] Starting gunicorn 19.9.0
+[2019-06-17 17:09:57 +0800] [60927] [INFO] Listening at: http://0.0.0.0:8000 (60927)
+[2019-06-17 17:09:57 +0800] [60927] [INFO] Using worker: sync
+[2019-06-17 17:09:57 +0800] [60930] [INFO] Booting worker with pid: 60930
+[2019-06-17 17:09:57 +0800] [60932] [INFO] Booting worker with pid: 60932
+[2019-06-17 17:09:57 +0800] [60934] [INFO] Booting worker with pid: 60934
+[2019-06-17 19:10:03 +0800] [60927] [INFO] Handling signal: hup
+[2019-06-17 19:10:03 +0800] [60927] [INFO] Hang up: Master
+[2019-06-17 19:10:03 +0800] [61213] [INFO] Booting worker with pid: 61213
+[2019-06-17 19:10:03 +0800] [61214] [INFO] Booting worker with pid: 61214
+[2019-06-17 19:10:03 +0800] [61215] [INFO] Booting worker with pid: 61215
+Not Found: /favicon.ico
+/usr/local/python3/lib/python3.6/site-packages/paramiko/ecdsakey.py:164: CryptographyDeprecationWarning: Support for unsafe construction of public numbers from encoded data will be removed in a future version. Please use EllipticCurvePublicKey.from_encoded_point
+  self.ecdsa_curve.curve_class(), pointinfo
+Not Found: /favicon.ico
+shanghai b469-214a-936d <class 'str'> <class 'str'>
+shanghai b469-216d-8355 <class 'str'> <class 'str'>
+shanghai a0a4-c576-0aba <class 'str'> <class 'str'>
+172.19.192.2
+172.19.192.3
+172.19.32.201
+172.19.32.202
+shanghai 1094-bbf2-7e36 <class 'str'> <class 'str'>
+shanghai d43b-040b-711a <class 'str'> <class 'str'>
+172.19.192.2
+172.19.192.3
+['4851-679a-c1e4', 'dc8b-285d-52c3', 'DC53-60EE-6119', '4845-20FB-96B8', 'c8ff-2858-e4e9', 'a402-b97d-34e9', 'c8ff-28ca-ebd9', 'B881-9858-b28b', '3052-3b60-8021', 'c4b3-01d0-76b5', 'c4b3-01d0-0149', 'acbc-327c-39ab', '9801-a7a8-2a99', 'DCA2-6672-7D2D', 'a0a4-c574-5103', '3052-cb6c-ccfd', '1881-0ed9-2fb2', '74df-bf38-3167', 'A0A4-C574-39E3', '74df-bf38-6233', '1881-0ed7-9dcc', '6a00-013b-2700', '9048-9ae6-4de1', 'c4b3-01cf-2941', 'acbc-3293-73b3', '9cda-3eba-de6b', 'acbc-32af-6237', 'c4b3-01c5-d22b', '34f6-4be5-cbbc', 'c4b3-01bd-b1c5', '185e-0f55-c152', 'f816-543f-f9cb', 'f018-9888-9846', '3052-c66c-9cf1', '4845-20B7-668C', 'b886-874d-68cf', 'ec2c-e27a-416a', '3052-cb60-8059', 'B886-875F-21BB', '3052-cb60-9a97', 'a0a4-c574-97ee', 'b469-2146-2279', 'a0a4-c574-a68a', 'a402-b97d-be73', 'a0a4-c573-6eff', '4c34-8860-1012', 'ec2c-e27a-417a', 'a0a4-c574-a5ef', 'a0a8-cd0f-065e', 'a0a4-c578-f5cd', 'ace0-1027-172d', 'a0a4-c573-61b7', 'a0a4-c579-1305', 'a0a4-c579-6dff', 'a0a4-c573-ebfa', 'a0a4-c573-6fe0', 'f816-5440-303f', '74df-bf38-4cf1', 'a0a4-c573-45c9', '9048-9a51-613b', 'acda-3ebb-0e5e', 'f816-543f-dd5b', 'a0a4-c576-4634', 'a0a4-c579-6d82', '3052-cb7f-3af5', 'acfd-ce87-ce54', 'A402-B97D-3BBA', '8863-df8b-351b', '28f0-7676-55a8', '3436-3bc6-797e', 'dc53-60ed-9f3b', '5840-4eee-e90a', '1881-0ed9-3b9e', '30B4-9EA8-7D8A', '8863-df93-cc1d', '185e-0f55-edf8', 'CC2F-711C-A408', 'F859-71F5-3180', '9048-9ae6-4de5', 'b469-2148-2ed9', 'c8ff-2859-4563', '28b2-bdf4-78bf', '30B4-9E73-887F', '9048-9a51-5c61', '185e-0fe9-66ff', 'ace0-1027-1ad5', '9048-9AE6-1FFF', '4845-20b7-67b8', '28f0-7678-12d4', '185e-0f55-c689', 'b0c0-9069-53b1', '1881-0edc-7884', 'f816-5428-5415', 'C8FF-28CA-EBCF', '30B4-9E8E-7E56', '28f0-7639-927e', 'c8ff-2859-1775', 'ac7b-a1a7-3df7', 'C4b3-01bf-c5e9', '84ef-181e-5d84', 'CC2F-711C-A417', '9048-9a51-8065', '3052-cb60-9b0b', 'f816-543f-80d1', 'c8ff-2852-27a5', 'f816-5452-0382', '4c34-882a-ffc6', 'b0c0-9060-d98f', '083e-8e24-8d55', 'DC53-60F4-B4DD', 'f816-5452-1d09', 'F816-543F-BE89', '9048-9ae6-4f1f', 'ccb0-daab-7527', '48d2-24ef-7fb8', '1002-b537-b257', 'c8ff-2856-6253', 'F816-5440-57CC', 'D8F2-CAA4-F5B5', '74DF-BF38-5181', 'ACFD-CE6E-E06F', '185e-0f55-cc74', 'B469-2144-C5AA', 'dc53-60db-9278', 'e8b1-fcd4-510c', '4851-b79a-3da5', 'f816-5440-2e0a', '4845-20fb-924e', 'f816-5452-0503', '9cda-3ebb-0c01', 'acfd-ce87-cdc3', 'acbc-32c1-31cf', 'c8ff-28ca-d4df', 'f816-5440-5925', '0028-f871-14cf', 'acbc-3293-b123', 'b0c0-9060-f1f1', '48D2-24EF-7B89', 'a402-b96d-7f18', 'a0a4-c579-717e', 'f816-5452-0765', 'b469-2146-264D', 'acbc-3294-40db', 'f816-543f-901c', '4845-20B7-68AD', 'c4b3-01ce-e5e3', 'acfd-ce46-5f6e', 'f816-5451-fe6e', 'f816-543f-f9c1', '4c34-887b-d43c', 'dc53-60ec-e44c', '4c34-882b-0002', 'c8ff-2859-1a5f', 'F816-543F-E97C', 'acfd-ce46-5feb', 'dc53-60ed-a008', 'B886-8746-5AE5', 'c8ff-28ca-f4ff', 'd46d-6d84-a472', 'dc53-60db-92e1', '9048-9ae5-f971', '9048-9a51-80ab', '3052-cb60-6d8b', 'F816-5452-0530', '28b2-bdf4-78ab', 'b0c0-9060-ef05', 'f816-54c1-2410', 'b886-8746-df21', 'a402-b97d-cee5', '4c34-887b-d685', 'c8ff-2859-1ad3', 'c821-5845-02f9', '4C34-8853-8FEF', 'a402-b96d-7ea5', 'A402-B96C-190C', 'f816-54c0-c65a', 'dc53-60db-baff', 'b0c0-9069-4bd3', 'a402-b97d-3bdd', 'dc53-60f3-bbe1', '4845-20b7-66aa', '3052-cb60-8069', '3052-cb7f-3e7f', '4845-20fb-9069', 'b886-8746-df0b', '6067-20be-ee6c', '4c34-8852-dfc2', 'dc53-60ed-9fc2', 'a0a8-cd1c-e634', 'b0c0-9061-34c7', '185e-0fed-d1c7', 'DC53-60DB-92F0', '3052-cb65-8aa1', 'c8ff-2852-268f', 'f816-5440-112c', 'acbc-3279-24e5', 'acbc-3292-1331', 'DC53-60EC-E433', '6807-152b-6ecf', 'b886-874d-68d9', 'B0C0-9060-C815', 'ace0-102f-6239', '1002-b538-204d', 'a402-b97d-beb9', 'ACE0-1027-30A7', 'ac7b-a1a7-4842', 'ACE0-1027-1AC9', '4403-2CA5-3D59', '74df-bf38-56cd', 'c8ff-2859-1a21', 'e82a-eae2-2be2', 'c8ff-2852-22d5', 'a402-b97e-2223', '9c6a-3ebb-92ac', '1002-b5b2-1b1e', 'a402-697d-c053', 'b0c0-9069-53c5', '3052-cb60-9af3', '4c34-887b-d680', '4c34-887b-d536', '4c34-88ad-d5a4', 'f816-5452-04b8', 'c85b-7600-db7c', 'b0c0-9060-c7ab', '3052-cb6c-a817', '4851-b732-d426', 'f816-5452-04e5', 'b0c0-9060-efc3', 'f816-54e0-f939', 'b0c0-9069-13e1', '185e-0f55-b0d6', 'dc53-60dc-55f5', 'c8ff-2852-26c1', '3052-cb6c-a3eb', 'e82a-eae2-28db', '9801-a7aa-d109', 'b0c0-9060-f985', '4851-b79a-c0d1', 'b0c0-9069-13f1', '1002-b5b4-6eeb', '3052-cb60-805d', '3402-86b1-04ae', 'c821-5845-0538', '9801-a7aa-d151', 'e82a-eaa1-6157', '185e-0f55-f1e0', '4851-b799-d103', '185e-0fed-d244', 'dc53-60ed-7227', 'c4b3-01c5-b493', 'ace0-1027-1741', '4c34-887b-d487', 'a402-b97c-e45d', 'b0c0-9060-f6b1', '6c88-1483-6cdc', 'f816-543f-becf', 'b0c0-9060-d927', '9048-9a51-5e27', 'B0C0-9060-F701', '843a-4b93-5d74', '4c34-8860-50ea', '28b2-bdf4-52ef', '9048-9ae6-4dd5', '9801-a7aa-cc57', '9465-9c8c-78ff', '9465-9c8c-78d7', 'dc53-60dc-018b', '9048-9a51-6259', 'ac7b-a1a7-4022', '4c34-882a-ffcb', '3052-cb60-6f09', '3052-cb7f-3ae7', '9048-9a51-60fb', '4c34-887b-d6e9', 'b0c0-9069-53c9', 'c821-5867-2b3b', '4c34-887b-d630', '4845-20fb-9668', 'f816-543f-8d74', 'a6db-3007-8de7', '4c34-887b-d423', 'C821-5845-0386', 'caff-1bca-1820', '507B-9D9C-BD59', '9048-9a51-5bdd', '3052-cb6c-9cc9', 'd053-4958-0da5', 'f816-5452-074c', 'b881-9892-4753', 'ACE0-1027-1777', '185e-0fed-d181', 'd46d-6d84-a297', '9048-9a51-7275', 'a402-b97d-569a', 'd053-4957-fb73', 'acbc-32c9-9f6f', 'd46d-6d84-9fa9', 'cc2f-7155-22e7', '4c34-8853-49d1', '9048-9a51-6269', 'd46d-6d84-9ecd', 'dc53-60ed-7245', '3052-cd60-6cf3', 'c8ff-285a-1a85', '6886-874d-9239', 'DC53-60DB-92AA', 'b0c0-9060-d90b', '4403-2CA5-425E', 'f816-5452-1cbe', 'ace0-102f-6215', '185e-0fed-d1e0', '9048-9a51-80ef', '3052-cb6c-a37b', 'DC53-60F4-B2EE', 'b886-874d-a9f3', '3052-CB6C-A6B7', 'B035-9f93-0661', 'f45c-89a6-32df', 'ACBC-3293-98BD', '7018-8bb7-1373', '6894-236b-84bf', '185e-0f55-c51c', 'f816-5452-04c7', 'b886-874d-5ff3', 'a402-b97d-bdce', 'f816-5427-f731', 'a402-b980-3b2b', 'f816-543f-db0d', 'a402-b97c-e458', '80e6-501f-5484', '30b4-9e8c-c8d9', 'acbc-3280-46e3', 'acbc-3294-40d3', '3052-cb60-9a5b', 'D46D-6D84-7C63', 'a0a4-c574-39ed', 'a0a8-cd1c-e643', 'c8ff-2859-10c3', 'dc53-60f4-780B', '3052-cb60-6f6b', 'f45c-89a6-3a83', 'acbc-32d1-0ba9', 'c4b3-01bd-bee1', 'acbc-32a4-d72d', 'f816-5452-1868', '3c15-c2bb-7014', 'a402-b959-6ccb', '8086-F2B7-5138', 'DC53-60EC-E48D', 'a402-b96c-d9af', 'acbc-32a4-ecb5', '4c34-8853-8f7c', 'F816-5428-E5EC', 'a402-b96d-6104', 'e82a-eae2-1d78', 'f816-54c0-c704', 'c8ff-2859-1a59', '54EE-758A-4755', 'e82a-eae2-2d3b', 'a402-b97d-be69', 'f816-5427-9624', '3052-cb7f-9989']
+beijing 4851-679a-c1e4 <class 'str'> <class 'str'>
+beijing dc8b-285d-52c3 <class 'str'> <class 'str'>
+beijing DC53-60EE-6119 <class 'str'> <class 'str'>
+beijing 4845-20FB-96B8 <class 'str'> <class 'str'>
+beijing c8ff-2858-e4e9 <class 'str'> <class 'str'>
+beijing a402-b97d-34e9 <class 'str'> <class 'str'>
+beijing c8ff-28ca-ebd9 <class 'str'> <class 'str'>
+beijing B881-9858-b28b <class 'str'> <class 'str'>
+beijing 3052-3b60-8021 <class 'str'> <class 'str'>
+beijing c4b3-01d0-76b5 <class 'str'> <class 'str'>
+beijing c4b3-01d0-0149 <class 'str'> <class 'str'>
+beijing acbc-327c-39ab <class 'str'> <class 'str'>
+beijing 9801-a7a8-2a99 <class 'str'> <class 'str'>
+beijing DCA2-6672-7D2D <class 'str'> <class 'str'>
+beijing a0a4-c574-5103 <class 'str'> <class 'str'>
+beijing 3052-cb6c-ccfd <class 'str'> <class 'str'>
+beijing 1881-0ed9-2fb2 <class 'str'> <class 'str'>
+beijing 74df-bf38-3167 <class 'str'> <class 'str'>
+beijing A0A4-C574-39E3 <class 'str'> <class 'str'>
+beijing 74df-bf38-6233 <class 'str'> <class 'str'>
+beijing 1881-0ed7-9dcc <class 'str'> <class 'str'>
+beijing 6a00-013b-2700 <class 'str'> <class 'str'>
+beijing 9048-9ae6-4de1 <class 'str'> <class 'str'>
+beijing c4b3-01cf-2941 <class 'str'> <class 'str'>
+beijing acbc-3293-73b3 <class 'str'> <class 'str'>
+beijing 9cda-3eba-de6b <class 'str'> <class 'str'>
+beijing acbc-32af-6237 <class 'str'> <class 'str'>
+beijing c4b3-01c5-d22b <class 'str'> <class 'str'>
+beijing 34f6-4be5-cbbc <class 'str'> <class 'str'>
+beijing c4b3-01bd-b1c5 <class 'str'> <class 'str'>
+beijing 185e-0f55-c152 <class 'str'> <class 'str'>
+beijing f816-543f-f9cb <class 'str'> <class 'str'>
+beijing f018-9888-9846 <class 'str'> <class 'str'>
+beijing 3052-c66c-9cf1 <class 'str'> <class 'str'>
+beijing 4845-20B7-668C <class 'str'> <class 'str'>
+beijing b886-874d-68cf <class 'str'> <class 'str'>
+beijing ec2c-e27a-416a <class 'str'> <class 'str'>
+beijing 3052-cb60-8059 <class 'str'> <class 'str'>
+beijing B886-875F-21BB <class 'str'> <class 'str'>
+beijing 3052-cb60-9a97 <class 'str'> <class 'str'>
+beijing a0a4-c574-97ee <class 'str'> <class 'str'>
+beijing b469-2146-2279 <class 'str'> <class 'str'>
+beijing a0a4-c574-a68a <class 'str'> <class 'str'>
+beijing a402-b97d-be73 <class 'str'> <class 'str'>
+beijing a0a4-c573-6eff <class 'str'> <class 'str'>
+beijing 4c34-8860-1012 <class 'str'> <class 'str'>
+beijing ec2c-e27a-417a <class 'str'> <class 'str'>
+beijing a0a4-c574-a5ef <class 'str'> <class 'str'>
+beijing a0a8-cd0f-065e <class 'str'> <class 'str'>
+beijing a0a4-c578-f5cd <class 'str'> <class 'str'>
+beijing ace0-1027-172d <class 'str'> <class 'str'>
+beijing a0a4-c573-61b7 <class 'str'> <class 'str'>
+beijing a0a4-c579-1305 <class 'str'> <class 'str'>
+beijing a0a4-c579-6dff <class 'str'> <class 'str'>
+beijing a0a4-c573-ebfa <class 'str'> <class 'str'>
+beijing a0a4-c573-6fe0 <class 'str'> <class 'str'>
+beijing f816-5440-303f <class 'str'> <class 'str'>
+beijing 74df-bf38-4cf1 <class 'str'> <class 'str'>
+beijing a0a4-c573-45c9 <class 'str'> <class 'str'>
+beijing 9048-9a51-613b <class 'str'> <class 'str'>
+beijing acda-3ebb-0e5e <class 'str'> <class 'str'>
+beijing f816-543f-dd5b <class 'str'> <class 'str'>
+beijing a0a4-c576-4634 <class 'str'> <class 'str'>
+beijing a0a4-c579-6d82 <class 'str'> <class 'str'>
+beijing 3052-cb7f-3af5 <class 'str'> <class 'str'>
+beijing acfd-ce87-ce54 <class 'str'> <class 'str'>
+beijing A402-B97D-3BBA <class 'str'> <class 'str'>
+beijing 8863-df8b-351b <class 'str'> <class 'str'>
+beijing 28f0-7676-55a8 <class 'str'> <class 'str'>
+beijing 3436-3bc6-797e <class 'str'> <class 'str'>
+beijing dc53-60ed-9f3b <class 'str'> <class 'str'>
+beijing 5840-4eee-e90a <class 'str'> <class 'str'>
+beijing 1881-0ed9-3b9e <class 'str'> <class 'str'>
+beijing 30B4-9EA8-7D8A <class 'str'> <class 'str'>
+beijing 8863-df93-cc1d <class 'str'> <class 'str'>
+beijing 185e-0f55-edf8 <class 'str'> <class 'str'>
+beijing CC2F-711C-A408 <class 'str'> <class 'str'>
+beijing F859-71F5-3180 <class 'str'> <class 'str'>
+beijing 9048-9ae6-4de5 <class 'str'> <class 'str'>
+beijing b469-2148-2ed9 <class 'str'> <class 'str'>
+beijing c8ff-2859-4563 <class 'str'> <class 'str'>
+beijing 28b2-bdf4-78bf <class 'str'> <class 'str'>
+beijing 30B4-9E73-887F <class 'str'> <class 'str'>
+beijing 9048-9a51-5c61 <class 'str'> <class 'str'>
+beijing 185e-0fe9-66ff <class 'str'> <class 'str'>
+beijing ace0-1027-1ad5 <class 'str'> <class 'str'>
+beijing 9048-9AE6-1FFF <class 'str'> <class 'str'>
+beijing 4845-20b7-67b8 <class 'str'> <class 'str'>
+beijing 28f0-7678-12d4 <class 'str'> <class 'str'>
+beijing 185e-0f55-c689 <class 'str'> <class 'str'>
+beijing b0c0-9069-53b1 <class 'str'> <class 'str'>
+beijing 1881-0edc-7884 <class 'str'> <class 'str'>
+beijing f816-5428-5415 <class 'str'> <class 'str'>
+beijing C8FF-28CA-EBCF <class 'str'> <class 'str'>
+beijing 30B4-9E8E-7E56 <class 'str'> <class 'str'>
+beijing 28f0-7639-927e <class 'str'> <class 'str'>
+beijing c8ff-2859-1775 <class 'str'> <class 'str'>
+beijing ac7b-a1a7-3df7 <class 'str'> <class 'str'>
+beijing C4b3-01bf-c5e9 <class 'str'> <class 'str'>
+beijing 84ef-181e-5d84 <class 'str'> <class 'str'>
+beijing CC2F-711C-A417 <class 'str'> <class 'str'>
+beijing 9048-9a51-8065 <class 'str'> <class 'str'>
+beijing 3052-cb60-9b0b <class 'str'> <class 'str'>
+beijing f816-543f-80d1 <class 'str'> <class 'str'>
+beijing c8ff-2852-27a5 <class 'str'> <class 'str'>
+beijing f816-5452-0382 <class 'str'> <class 'str'>
+beijing 4c34-882a-ffc6 <class 'str'> <class 'str'>
+beijing b0c0-9060-d98f <class 'str'> <class 'str'>
+beijing 083e-8e24-8d55 <class 'str'> <class 'str'>
+beijing DC53-60F4-B4DD <class 'str'> <class 'str'>
+beijing f816-5452-1d09 <class 'str'> <class 'str'>
+beijing F816-543F-BE89 <class 'str'> <class 'str'>
+beijing 9048-9ae6-4f1f <class 'str'> <class 'str'>
+beijing ccb0-daab-7527 <class 'str'> <class 'str'>
+beijing 48d2-24ef-7fb8 <class 'str'> <class 'str'>
+beijing 1002-b537-b257 <class 'str'> <class 'str'>
+beijing c8ff-2856-6253 <class 'str'> <class 'str'>
+beijing F816-5440-57CC <class 'str'> <class 'str'>
+beijing D8F2-CAA4-F5B5 <class 'str'> <class 'str'>
+beijing 74DF-BF38-5181 <class 'str'> <class 'str'>
+beijing ACFD-CE6E-E06F <class 'str'> <class 'str'>
+beijing 185e-0f55-cc74 <class 'str'> <class 'str'>
+beijing B469-2144-C5AA <class 'str'> <class 'str'>
+beijing dc53-60db-9278 <class 'str'> <class 'str'>
+beijing e8b1-fcd4-510c <class 'str'> <class 'str'>
+beijing 4851-b79a-3da5 <class 'str'> <class 'str'>
+beijing f816-5440-2e0a <class 'str'> <class 'str'>
+beijing 4845-20fb-924e <class 'str'> <class 'str'>
+beijing f816-5452-0503 <class 'str'> <class 'str'>
+beijing 9cda-3ebb-0c01 <class 'str'> <class 'str'>
+beijing acfd-ce87-cdc3 <class 'str'> <class 'str'>
+beijing acbc-32c1-31cf <class 'str'> <class 'str'>
+beijing c8ff-28ca-d4df <class 'str'> <class 'str'>
+beijing f816-5440-5925 <class 'str'> <class 'str'>
+beijing 0028-f871-14cf <class 'str'> <class 'str'>
+beijing acbc-3293-b123 <class 'str'> <class 'str'>
+beijing b0c0-9060-f1f1 <class 'str'> <class 'str'>
+beijing 48D2-24EF-7B89 <class 'str'> <class 'str'>
+beijing a402-b96d-7f18 <class 'str'> <class 'str'>
+beijing a0a4-c579-717e <class 'str'> <class 'str'>
+beijing f816-5452-0765 <class 'str'> <class 'str'>
+beijing b469-2146-264D <class 'str'> <class 'str'>
+beijing acbc-3294-40db <class 'str'> <class 'str'>
+beijing f816-543f-901c <class 'str'> <class 'str'>
+beijing 4845-20B7-68AD <class 'str'> <class 'str'>
+beijing c4b3-01ce-e5e3 <class 'str'> <class 'str'>
+beijing acfd-ce46-5f6e <class 'str'> <class 'str'>
+beijing f816-5451-fe6e <class 'str'> <class 'str'>
+beijing f816-543f-f9c1 <class 'str'> <class 'str'>
+beijing 4c34-887b-d43c <class 'str'> <class 'str'>
+beijing dc53-60ec-e44c <class 'str'> <class 'str'>
+beijing 4c34-882b-0002 <class 'str'> <class 'str'>
+beijing c8ff-2859-1a5f <class 'str'> <class 'str'>
+beijing F816-543F-E97C <class 'str'> <class 'str'>
+beijing acfd-ce46-5feb <class 'str'> <class 'str'>
+beijing dc53-60ed-a008 <class 'str'> <class 'str'>
+beijing B886-8746-5AE5 <class 'str'> <class 'str'>
+beijing c8ff-28ca-f4ff <class 'str'> <class 'str'>
+beijing d46d-6d84-a472 <class 'str'> <class 'str'>
+beijing dc53-60db-92e1 <class 'str'> <class 'str'>
+beijing 9048-9ae5-f971 <class 'str'> <class 'str'>
+beijing 9048-9a51-80ab <class 'str'> <class 'str'>
+beijing 3052-cb60-6d8b <class 'str'> <class 'str'>
+beijing F816-5452-0530 <class 'str'> <class 'str'>
+beijing 28b2-bdf4-78ab <class 'str'> <class 'str'>
+beijing b0c0-9060-ef05 <class 'str'> <class 'str'>
+beijing f816-54c1-2410 <class 'str'> <class 'str'>
+beijing b886-8746-df21 <class 'str'> <class 'str'>
+beijing a402-b97d-cee5 <class 'str'> <class 'str'>
+beijing 4c34-887b-d685 <class 'str'> <class 'str'>
+beijing c8ff-2859-1ad3 <class 'str'> <class 'str'>
+beijing c821-5845-02f9 <class 'str'> <class 'str'>
+beijing 4C34-8853-8FEF <class 'str'> <class 'str'>
+beijing a402-b96d-7ea5 <class 'str'> <class 'str'>
+beijing A402-B96C-190C <class 'str'> <class 'str'>
+beijing f816-54c0-c65a <class 'str'> <class 'str'>
+beijing dc53-60db-baff <class 'str'> <class 'str'>
+beijing b0c0-9069-4bd3 <class 'str'> <class 'str'>
+beijing a402-b97d-3bdd <class 'str'> <class 'str'>
+beijing dc53-60f3-bbe1 <class 'str'> <class 'str'>
+beijing 4845-20b7-66aa <class 'str'> <class 'str'>
+beijing 3052-cb60-8069 <class 'str'> <class 'str'>
+beijing 3052-cb7f-3e7f <class 'str'> <class 'str'>
+beijing 4845-20fb-9069 <class 'str'> <class 'str'>
+beijing b886-8746-df0b <class 'str'> <class 'str'>
+beijing 6067-20be-ee6c <class 'str'> <class 'str'>
+beijing 4c34-8852-dfc2 <class 'str'> <class 'str'>
+beijing dc53-60ed-9fc2 <class 'str'> <class 'str'>
+beijing a0a8-cd1c-e634 <class 'str'> <class 'str'>
+beijing b0c0-9061-34c7 <class 'str'> <class 'str'>
+beijing 185e-0fed-d1c7 <class 'str'> <class 'str'>
+beijing DC53-60DB-92F0 <class 'str'> <class 'str'>
+beijing 3052-cb65-8aa1 <class 'str'> <class 'str'>
+beijing c8ff-2852-268f <class 'str'> <class 'str'>
+beijing f816-5440-112c <class 'str'> <class 'str'>
+beijing acbc-3279-24e5 <class 'str'> <class 'str'>
+beijing acbc-3292-1331 <class 'str'> <class 'str'>
+beijing DC53-60EC-E433 <class 'str'> <class 'str'>
+beijing 6807-152b-6ecf <class 'str'> <class 'str'>
+beijing b886-874d-68d9 <class 'str'> <class 'str'>
+beijing B0C0-9060-C815 <class 'str'> <class 'str'>
+beijing ace0-102f-6239 <class 'str'> <class 'str'>
+beijing 1002-b538-204d <class 'str'> <class 'str'>
+beijing a402-b97d-beb9 <class 'str'> <class 'str'>
+beijing ACE0-1027-30A7 <class 'str'> <class 'str'>
+beijing ac7b-a1a7-4842 <class 'str'> <class 'str'>
+beijing ACE0-1027-1AC9 <class 'str'> <class 'str'>
+beijing 4403-2CA5-3D59 <class 'str'> <class 'str'>
+beijing 74df-bf38-56cd <class 'str'> <class 'str'>
+beijing c8ff-2859-1a21 <class 'str'> <class 'str'>
+beijing e82a-eae2-2be2 <class 'str'> <class 'str'>
+beijing c8ff-2852-22d5 <class 'str'> <class 'str'>
+beijing a402-b97e-2223 <class 'str'> <class 'str'>
+beijing 9c6a-3ebb-92ac <class 'str'> <class 'str'>
+beijing 1002-b5b2-1b1e <class 'str'> <class 'str'>
+beijing a402-697d-c053 <class 'str'> <class 'str'>
+beijing b0c0-9069-53c5 <class 'str'> <class 'str'>
+beijing 3052-cb60-9af3 <class 'str'> <class 'str'>
+beijing 4c34-887b-d680 <class 'str'> <class 'str'>
+beijing 4c34-887b-d536 <class 'str'> <class 'str'>
+beijing 4c34-88ad-d5a4 <class 'str'> <class 'str'>
+beijing f816-5452-04b8 <class 'str'> <class 'str'>
+beijing c85b-7600-db7c <class 'str'> <class 'str'>
+beijing b0c0-9060-c7ab <class 'str'> <class 'str'>
+beijing 3052-cb6c-a817 <class 'str'> <class 'str'>
+beijing 4851-b732-d426 <class 'str'> <class 'str'>
+beijing f816-5452-04e5 <class 'str'> <class 'str'>
+beijing b0c0-9060-efc3 <class 'str'> <class 'str'>
+beijing f816-54e0-f939 <class 'str'> <class 'str'>
+beijing b0c0-9069-13e1 <class 'str'> <class 'str'>
+beijing 185e-0f55-b0d6 <class 'str'> <class 'str'>
+beijing dc53-60dc-55f5 <class 'str'> <class 'str'>
+beijing c8ff-2852-26c1 <class 'str'> <class 'str'>
+beijing 3052-cb6c-a3eb <class 'str'> <class 'str'>
+beijing e82a-eae2-28db <class 'str'> <class 'str'>
+beijing 9801-a7aa-d109 <class 'str'> <class 'str'>
+beijing b0c0-9060-f985 <class 'str'> <class 'str'>
+beijing 4851-b79a-c0d1 <class 'str'> <class 'str'>
+beijing b0c0-9069-13f1 <class 'str'> <class 'str'>
+beijing 1002-b5b4-6eeb <class 'str'> <class 'str'>
+beijing 3052-cb60-805d <class 'str'> <class 'str'>
+beijing 3402-86b1-04ae <class 'str'> <class 'str'>
+beijing c821-5845-0538 <class 'str'> <class 'str'>
+beijing 9801-a7aa-d151 <class 'str'> <class 'str'>
+beijing e82a-eaa1-6157 <class 'str'> <class 'str'>
+beijing 185e-0f55-f1e0 <class 'str'> <class 'str'>
+beijing 4851-b799-d103 <class 'str'> <class 'str'>
+beijing 185e-0fed-d244 <class 'str'> <class 'str'>
+beijing dc53-60ed-7227 <class 'str'> <class 'str'>
+beijing c4b3-01c5-b493 <class 'str'> <class 'str'>
+beijing ace0-1027-1741 <class 'str'> <class 'str'>
+beijing 4c34-887b-d487 <class 'str'> <class 'str'>
+beijing a402-b97c-e45d <class 'str'> <class 'str'>
+beijing b0c0-9060-f6b1 <class 'str'> <class 'str'>
+beijing 6c88-1483-6cdc <class 'str'> <class 'str'>
+beijing f816-543f-becf <class 'str'> <class 'str'>
+beijing b0c0-9060-d927 <class 'str'> <class 'str'>
+beijing 9048-9a51-5e27 <class 'str'> <class 'str'>
+beijing B0C0-9060-F701 <class 'str'> <class 'str'>
+beijing 843a-4b93-5d74 <class 'str'> <class 'str'>
+beijing 4c34-8860-50ea <class 'str'> <class 'str'>
+beijing 28b2-bdf4-52ef <class 'str'> <class 'str'>
+beijing 9048-9ae6-4dd5 <class 'str'> <class 'str'>
+beijing 9801-a7aa-cc57 <class 'str'> <class 'str'>
+beijing 9465-9c8c-78ff <class 'str'> <class 'str'>
+beijing 9465-9c8c-78d7 <class 'str'> <class 'str'>
+beijing dc53-60dc-018b <class 'str'> <class 'str'>
+beijing 9048-9a51-6259 <class 'str'> <class 'str'>
+beijing ac7b-a1a7-4022 <class 'str'> <class 'str'>
+beijing 4c34-882a-ffcb <class 'str'> <class 'str'>
+beijing 3052-cb60-6f09 <class 'str'> <class 'str'>
+beijing 3052-cb7f-3ae7 <class 'str'> <class 'str'>
+beijing 9048-9a51-60fb <class 'str'> <class 'str'>
+beijing 4c34-887b-d6e9 <class 'str'> <class 'str'>
+beijing b0c0-9069-53c9 <class 'str'> <class 'str'>
+beijing c821-5867-2b3b <class 'str'> <class 'str'>
+beijing 4c34-887b-d630 <class 'str'> <class 'str'>
+beijing 4845-20fb-9668 <class 'str'> <class 'str'>
+beijing f816-543f-8d74 <class 'str'> <class 'str'>
+beijing a6db-3007-8de7 <class 'str'> <class 'str'>
+beijing 4c34-887b-d423 <class 'str'> <class 'str'>
+beijing C821-5845-0386 <class 'str'> <class 'str'>
+beijing caff-1bca-1820 <class 'str'> <class 'str'>
+beijing 507B-9D9C-BD59 <class 'str'> <class 'str'>
+beijing 9048-9a51-5bdd <class 'str'> <class 'str'>
+beijing 3052-cb6c-9cc9 <class 'str'> <class 'str'>
+beijing d053-4958-0da5 <class 'str'> <class 'str'>
+beijing f816-5452-074c <class 'str'> <class 'str'>
+beijing b881-9892-4753 <class 'str'> <class 'str'>
+beijing ACE0-1027-1777 <class 'str'> <class 'str'>
+beijing 185e-0fed-d181 <class 'str'> <class 'str'>
+beijing d46d-6d84-a297 <class 'str'> <class 'str'>
+beijing 9048-9a51-7275 <class 'str'> <class 'str'>
+beijing a402-b97d-569a <class 'str'> <class 'str'>
+beijing d053-4957-fb73 <class 'str'> <class 'str'>
+beijing acbc-32c9-9f6f <class 'str'> <class 'str'>
+beijing d46d-6d84-9fa9 <class 'str'> <class 'str'>
+beijing cc2f-7155-22e7 <class 'str'> <class 'str'>
+beijing 4c34-8853-49d1 <class 'str'> <class 'str'>
+beijing 9048-9a51-6269 <class 'str'> <class 'str'>
+beijing d46d-6d84-9ecd <class 'str'> <class 'str'>
+beijing dc53-60ed-7245 <class 'str'> <class 'str'>
+beijing 3052-cd60-6cf3 <class 'str'> <class 'str'>
+beijing c8ff-285a-1a85 <class 'str'> <class 'str'>
+beijing 6886-874d-9239 <class 'str'> <class 'str'>
+beijing DC53-60DB-92AA <class 'str'> <class 'str'>
+beijing b0c0-9060-d90b <class 'str'> <class 'str'>
+beijing 4403-2CA5-425E <class 'str'> <class 'str'>
+beijing f816-5452-1cbe <class 'str'> <class 'str'>
+beijing ace0-102f-6215 <class 'str'> <class 'str'>
+beijing 185e-0fed-d1e0 <class 'str'> <class 'str'>
+beijing 9048-9a51-80ef <class 'str'> <class 'str'>
+beijing 3052-cb6c-a37b <class 'str'> <class 'str'>
+beijing DC53-60F4-B2EE <class 'str'> <class 'str'>
+beijing b886-874d-a9f3 <class 'str'> <class 'str'>
+beijing 3052-CB6C-A6B7 <class 'str'> <class 'str'>
+beijing B035-9f93-0661 <class 'str'> <class 'str'>
+beijing f45c-89a6-32df <class 'str'> <class 'str'>
+beijing ACBC-3293-98BD <class 'str'> <class 'str'>
+beijing 7018-8bb7-1373 <class 'str'> <class 'str'>
+beijing 6894-236b-84bf <class 'str'> <class 'str'>
+beijing 185e-0f55-c51c <class 'str'> <class 'str'>
+beijing f816-5452-04c7 <class 'str'> <class 'str'>
+beijing b886-874d-5ff3 <class 'str'> <class 'str'>
+beijing a402-b97d-bdce <class 'str'> <class 'str'>
+beijing f816-5427-f731 <class 'str'> <class 'str'>
+beijing a402-b980-3b2b <class 'str'> <class 'str'>
+beijing f816-543f-db0d <class 'str'> <class 'str'>
+beijing a402-b97c-e458 <class 'str'> <class 'str'>
+beijing 80e6-501f-5484 <class 'str'> <class 'str'>
+beijing 30b4-9e8c-c8d9 <class 'str'> <class 'str'>
+beijing acbc-3280-46e3 <class 'str'> <class 'str'>
+beijing acbc-3294-40d3 <class 'str'> <class 'str'>
+beijing 3052-cb60-9a5b <class 'str'> <class 'str'>
+beijing D46D-6D84-7C63 <class 'str'> <class 'str'>
+beijing a0a4-c574-39ed <class 'str'> <class 'str'>
+beijing a0a8-cd1c-e643 <class 'str'> <class 'str'>
+beijing c8ff-2859-10c3 <class 'str'> <class 'str'>
+beijing dc53-60f4-780B <class 'str'> <class 'str'>
+beijing 3052-cb60-6f6b <class 'str'> <class 'str'>
+beijing f45c-89a6-3a83 <class 'str'> <class 'str'>
+beijing acbc-32d1-0ba9 <class 'str'> <class 'str'>
+beijing c4b3-01bd-bee1 <class 'str'> <class 'str'>
+beijing acbc-32a4-d72d <class 'str'> <class 'str'>
+beijing f816-5452-1868 <class 'str'> <class 'str'>
+beijing 3c15-c2bb-7014 <class 'str'> <class 'str'>
+beijing a402-b959-6ccb <class 'str'> <class 'str'>
+beijing 8086-F2B7-5138 <class 'str'> <class 'str'>/usr/local/python3/lib/python3.6/site-packages/paramiko/ecdsakey.py:164: CryptographyDeprecationWarning: Support for unsafe construction of public numbers from encoded data will be removed in a future version. Please use EllipticCurvePublicKey.from_encoded_point
+  self.ecdsa_curve.curve_class(), pointinfo
+Not Found: /favicon.ico
+[2019-06-19 17:42:38 +0800] [60927] [INFO] Handling signal: term
+[2019-06-19 09:42:38 +0000] [61215] [INFO] Worker exiting (pid: 61215)
+
+beijing DC53-60EC-E48D <class 'str'> <class 'str'>
+beijing a402-b96c-d9af <class 'str'> <class 'str'>
+beijing acbc-32a4-ecb5 <class 'str'> <class 'str'>
+beijing 4c34-8853-8f7c <class 'str'> <class 'str'>
+beijing F816-5428-E5EC <class 'str'> <class 'str'>
+beijing a402-b96d-6104 <class 'str'> <class 'str'>
+beijing e82a-eae2-1d78 <class 'str'> <class 'str'>
+beijing f816-54c0-c704 <class 'str'> <class 'str'>
+beijing c8ff-2859-1a59 <class 'str'> <class 'str'>
+beijing 54EE-758A-4755 <class 'str'> <class 'str'>
+beijing e82a-eae2-2d3b <class 'str'> <class 'str'>
+beijing a402-b97d-be69 <class 'str'> <class 'str'>
+beijing f816-5427-9624 <class 'str'> <class 'str'>
+beijing 3052-cb7f-9989 <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+172.19.32.201
+172.19.32.202
+shenzhen c821-5867-3e2d <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+172.19.24.201
+172.19.24.202
+shenzhen c821-5867-5449 <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+172.19.24.201
+172.19.24.202
+shenzhen a0a4-c576-01ba <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+shenzhen D43B-040B-719C <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+[2019-06-19 09:42:38 +0000] [61214] [INFO] Worker exiting (pid: 61214)
+172.19.192.2
+172.19.192.3
+172.19.192.2
+172.19.192.3
+shenzhen 04ea-562b-13b2 <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+172.19.24.201
+172.19.24.202
+shenzhen b469-214a-936b <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+172.19.24.201
+172.19.24.202
+shenzhen b469-214a-936d <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+172.19.24.201
+172.19.24.202
+/usr/local/python3/lib/python3.6/site-packages/paramiko/ecdsakey.py:164: CryptographyDeprecationWarning: Support for unsafe construction of public numbers from encoded data will be removed in a future version. Please use EllipticCurvePublicKey.from_encoded_point
+  self.ecdsa_curve.curve_class(), pointinfo
+[2019-06-19 09:42:38 +0000] [61213] [INFO] Worker exiting (pid: 61213)
+shenzhen b469-216d-8355 <class 'str'> <class 'str'>
+shenzhen a0a4-c576-0aba <class 'str'> <class 'str'>
+shenzhen b469-214a-936d <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+shenzhen a0a4-c576-01ba <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+172.19.24.201
+172.19.24.202
+172.19.192.2
+172.19.192.3
+shanghai dc53-60f3-cac8 <class 'str'> <class 'str'>
+172.19.192.2
+172.19.192.3
+chengdu c8ff-2859-1751 <class 'str'> <class 'str'>
+172.19.36.201
+172.19.36.202
+[2019-06-19 17:43:02 +0800] [5035] [INFO] Starting gunicorn 19.9.0
+[2019-06-19 17:43:02 +0800] [5035] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-19 17:43:02 +0800] [5035] [ERROR] Retrying in 1 second.
+[2019-06-19 17:43:03 +0800] [5035] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-19 17:43:03 +0800] [5035] [ERROR] Retrying in 1 second.
+[2019-06-19 17:43:04 +0800] [5035] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-19 17:43:04 +0800] [5035] [ERROR] Retrying in 1 second.
+[2019-06-19 17:43:05 +0800] [5035] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-19 17:43:05 +0800] [5035] [ERROR] Retrying in 1 second.
+[2019-06-19 17:43:06 +0800] [5035] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-19 17:43:06 +0800] [5035] [ERROR] Retrying in 1 second.
+[2019-06-19 17:43:07 +0800] [5035] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2019-06-19 17:43:08 +0800] [60927] [INFO] Shutting down: Master
+usage: gunicorn [OPTIONS] [APP_MODULE]
+gunicorn: error: argument -w/--workers: invalid int value: '1mac_auth.wsgi:application'
+[2019-06-19 17:43:33 +0800] [5045] [INFO] Starting gunicorn 19.9.0
+[2019-06-19 17:43:33 +0800] [5045] [INFO] Listening at: http://0.0.0.0:8000 (5045)
+[2019-06-19 17:43:33 +0800] [5045] [INFO] Using worker: sync
+[2019-06-19 17:43:33 +0800] [5048] [INFO] Booting worker with pid: 5048
+[2019-06-19 18:06:21 +0800] [5045] [INFO] Handling signal: term
+/usr/local/python3/lib/python3.6/site-packages/paramiko/ecdsakey.py:164: CryptographyDeprecationWarning: Support for unsafe construction of public numbers from encoded data will be removed in a future version. Please use EllipticCurvePublicKey.from_encoded_point
+  self.ecdsa_curve.curve_class(), pointinfo
+[2019-06-19 10:06:21 +0000] [5048] [INFO] Worker exiting (pid: 5048)
+shenzhen 04ea-5614-3b97 <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+[2019-06-19 18:06:21 +0800] [5252] [INFO] Starting gunicorn 19.9.0
+[2019-06-19 18:06:21 +0800] [5252] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-19 18:06:21 +0800] [5252] [ERROR] Retrying in 1 second.
+[2019-06-19 18:06:22 +0800] [5252] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-19 18:06:22 +0800] [5252] [ERROR] Retrying in 1 second.
+[2019-06-19 18:06:23 +0800] [5252] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-19 18:06:23 +0800] [5252] [ERROR] Retrying in 1 second.
+[2019-06-19 18:06:24 +0800] [5252] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-19 18:06:24 +0800] [5252] [ERROR] Retrying in 1 second.
+[2019-06-19 18:06:25 +0800] [5252] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-19 18:06:25 +0800] [5252] [ERROR] Retrying in 1 second.
+[2019-06-19 18:06:26 +0800] [5252] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2019-06-19 18:06:51 +0800] [5045] [INFO] Shutting down: Master
+[2019-06-19 18:07:00 +0800] [5268] [INFO] Starting gunicorn 19.9.0
+[2019-06-19 18:07:00 +0800] [5268] [INFO] Listening at: http://0.0.0.0:8000 (5268)
+[2019-06-19 18:07:00 +0800] [5268] [INFO] Using worker: sync
+[2019-06-19 18:07:00 +0800] [5271] [INFO] Booting worker with pid: 5271
+[2019-06-19 18:07:00 +0800] [5273] [INFO] Booting worker with pid: 5273
+[2019-06-19 18:07:00 +0800] [5275] [INFO] Booting worker with pid: 5275
+/usr/local/python3/lib/python3.6/site-packages/paramiko/ecdsakey.py:164: CryptographyDeprecationWarning: Support for unsafe construction of public numbers from encoded data will be removed in a future version. Please use EllipticCurvePublicKey.from_encoded_point
+  self.ecdsa_curve.curve_class(), pointinfo
+Not Found: /
+/usr/local/python3/lib/python3.6/site-packages/paramiko/ecdsakey.py:164: CryptographyDeprecationWarning: Support for unsafe construction of public numbers from encoded data will be removed in a future version. Please use EllipticCurvePublicKey.from_encoded_point
+  self.ecdsa_curve.curve_class(), pointinfo
+Not Found: /favicon.ico
+/usr/local/python3/lib/python3.6/site-packages/paramiko/ecdsakey.py:164: CryptographyDeprecationWarning: Support for unsafe construction of public numbers from encoded data will be removed in a future version. Please use EllipticCurvePublicKey.from_encoded_point
+  self.ecdsa_curve.curve_class(), pointinfo
+Not Found: /favicon.ico
+[2019-06-21 19:25:31 +0800] [5268] [INFO] Handling signal: term
+[2019-06-21 11:25:31 +0000] [5271] [INFO] Worker exiting (pid: 5271)
+[2019-06-21 11:25:31 +0000] [5273] [INFO] Worker exiting (pid: 5273)
+shenzhen b469-216d-7fa9 <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+['38f9-d3c0-6406', 'f45c-89a5-0de3', '5076-afde-448c', '5076-afde-b395']
+beijing 38f9-d3c0-6406 <class 'str'> <class 'str'>
+beijing f45c-89a5-0de3 <class 'str'> <class 'str'>
+beijing 5076-afde-448c <class 'str'> <class 'str'>
+beijing 5076-afde-b395 <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+172.19.192.2
+172.19.192.3
+shenzhen 54ee-758a-4592 <class 'str'> <class 'str'>
+shenzhen 54ee-75a3-79fb <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+shenzhen b881-983f-fac5 <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+172.19.24.201
+172.19.24.202
+shenzhen d43b-040b-711a <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+beijing a402-b96d-61b8 <class 'str'> <class 'str'>
+beijing b469-2147-b10c <class 'str'> <class 'str'>
+beijing 1002-b5b2-9d64 <class 'str'> <class 'str'>
+beijing b0c0-9060-d933 <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+172.19.32.201
+172.19.32.202
+172.19.32.201
+172.19.32.202
+beijing 5076-afde-448c <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+172.19.192.2
+172.19.192.3
+shenzhen 3052-CB6C-A8B5 <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+shenzhen f45c-89a4-1c2f <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+chengdu 38f9-d337-b257 <class 'str'> <class 'str'>
+172.19.36.201
+172.19.36.202
+172.19.192.2
+172.19.192.3
+172.19.32.201
+172.19.32.202
+[2019-06-21 11:25:31 +0000] [5275] [INFO] Worker exiting (pid: 5275)
+shanghai 38f9-d340-cd70 <class 'str'> <class 'str'>
+172.19.192.2
+172.19.192.3
+shanghai ac7b-a1a7-3fb9 <class 'str'> <class 'str'>
+172.19.192.2
+172.19.192.3
+shanghai a4c3-f0ee-296a <class 'str'> <class 'str'>
+shanghai a4c3-f0f4-12cb <class 'str'> <class 'str'>
+172.19.192.2
+172.19.192.3
+shanghai 38f9-d337-b257 <class 'str'> <class 'str'>
+172.19.192.2
+172.19.192.3
+shenzhen c8ff-2858-e4fb <class 'str'> <class 'str'>
+shenzhen b88a-983f-fac5 <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+172.19.24.201
+172.19.24.202
+beijing 5076-afde-448c <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+[2019-06-21 19:25:31 +0800] [12629] [INFO] Starting gunicorn 19.9.0
+[2019-06-21 19:25:31 +0800] [12629] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-21 19:25:31 +0800] [12629] [ERROR] Retrying in 1 second.
+[2019-06-21 19:25:32 +0800] [12629] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-21 19:25:32 +0800] [12629] [ERROR] Retrying in 1 second.
+[2019-06-21 19:25:33 +0800] [12629] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-21 19:25:33 +0800] [12629] [ERROR] Retrying in 1 second.
+[2019-06-21 19:25:34 +0800] [12629] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-21 19:25:34 +0800] [12629] [ERROR] Retrying in 1 second.
+[2019-06-21 19:25:35 +0800] [12629] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-21 19:25:35 +0800] [12629] [ERROR] Retrying in 1 second.
+[2019-06-21 19:25:36 +0800] [12629] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2019-06-21 19:25:41 +0800] [12638] [INFO] Starting gunicorn 19.9.0
+[2019-06-21 19:25:41 +0800] [12638] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-21 19:25:41 +0800] [12638] [ERROR] Retrying in 1 second.
+[2019-06-21 19:25:42 +0800] [12638] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-21 19:25:42 +0800] [12638] [ERROR] Retrying in 1 second.
+[2019-06-21 19:25:43 +0800] [12638] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-21 19:25:43 +0800] [12638] [ERROR] Retrying in 1 second.
+[2019-06-21 19:25:44 +0800] [12638] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-21 19:25:44 +0800] [12638] [ERROR] Retrying in 1 second.
+[2019-06-21 19:25:45 +0800] [12638] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-21 19:25:45 +0800] [12638] [ERROR] Retrying in 1 second.
+[2019-06-21 19:25:46 +0800] [12638] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2019-06-21 19:25:56 +0800] [12649] [INFO] Starting gunicorn 19.9.0
+[2019-06-21 19:25:56 +0800] [12649] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-21 19:25:56 +0800] [12649] [ERROR] Retrying in 1 second.
+[2019-06-21 19:25:57 +0800] [12649] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-21 19:25:57 +0800] [12649] [ERROR] Retrying in 1 second.
+[2019-06-21 19:25:58 +0800] [12649] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-21 19:25:58 +0800] [12649] [ERROR] Retrying in 1 second.
+[2019-06-21 19:25:59 +0800] [12649] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-21 19:25:59 +0800] [12649] [ERROR] Retrying in 1 second.
+[2019-06-21 19:26:00 +0800] [12649] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-21 19:26:00 +0800] [12649] [ERROR] Retrying in 1 second.
+[2019-06-21 19:26:01 +0800] [12649] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2019-06-21 19:26:01 +0800] [5268] [INFO] Shutting down: Master
+[2019-06-21 19:26:12 +0800] [12660] [INFO] Starting gunicorn 19.9.0
+[2019-06-21 19:26:12 +0800] [12660] [INFO] Listening at: http://0.0.0.0:8000 (12660)
+[2019-06-21 19:26:12 +0800] [12660] [INFO] Using worker: sync
+[2019-06-21 19:26:12 +0800] [12663] [INFO] Booting worker with pid: 12663
+[2019-06-21 19:26:12 +0800] [12664] [INFO] Booting worker with pid: 12664
+[2019-06-21 19:26:13 +0800] [12667] [INFO] Booting worker with pid: 12667
+/usr/local/python3/lib/python3.6/site-packages/paramiko/ecdsakey.py:164: CryptographyDeprecationWarning: Support for unsafe construction of public numbers from encoded data will be removed in a future version. Please use EllipticCurvePublicKey.from_encoded_point
+  self.ecdsa_curve.curve_class(), pointinfo
+Not Found: /favicon.ico
+/usr/local/python3/lib/python3.6/site-packages/paramiko/ecdsakey.py:164: CryptographyDeprecationWarning: Support for unsafe construction of public numbers from encoded data will be removed in a future version. Please use EllipticCurvePublicKey.from_encoded_point
+  self.ecdsa_curve.curve_class(), pointinfo
+Not Found: /
+Not Found: /favicon.ico
+Not Found: /connecttest.txt
+Not Found: /connecttest.txt
+/usr/local/python3/lib/python3.6/site-packages/paramiko/ecdsakey.py:164: CryptographyDeprecationWarning: Support for unsafe construction of public numbers from encoded data will be removed in a future version. Please use EllipticCurvePublicKey.from_encoded_point
+  self.ecdsa_curve.curve_class(), pointinfo
+Not Found: /connecttest.txt
+[2019-06-25 17:56:38 +0800] [12660] [INFO] Handling signal: term
+[2019-06-25 09:56:38 +0000] [12664] [INFO] Worker exiting (pid: 12664)
+[2019-06-25 09:56:38 +0000] [12663] [INFO] Worker exiting (pid: 12663)
+[2019-06-25 09:56:38 +0000] [12667] [INFO] Worker exiting (pid: 12667)
+shenzhen b469-2148-4b76 <class 'str'> <class 'str'>
+shenzhen b469-2168-e35e <class 'str'> <class 'str'>
+shenzhen b369-2146-cee5 <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+beijing f45c-89a5-0de3 <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+172.19.24.201
+172.19.24.202
+shenzhen d43b-040b-3a6f <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+172.19.24.201
+172.19.24.202
+beijing 38f9-d3ba-d3f3 <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+beijing c4b3-01be-24f5 <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+shanghai 4c34-88b0-1012 <class 'str'> <class 'str'>
+172.19.192.2
+172.19.192.3
+172.19.192.2
+172.19.192.3
+beijing c4b3-01be-2e63 <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+172.19.192.2
+172.19.192.3
+shanghai 4c34-88b0-1012 <class 'str'> <class 'str'>
+172.19.192.2
+172.19.192.3
+beijing 38f9-d3c0-8188 <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+shenzhen 04ea-562a-314a <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+shanghai 30b4-9ed7-bf13 <class 'str'> <class 'str'>
+172.19.192.2
+172.19.192.3
+shenzhen b88a-9892-93f7 <class 'str'> <class 'str'>
+shenzhen d34b-040b-3a6f <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+shenzhen a0a4-c575-fb66 <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+shenzhen b881-9892-93f7 <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+172.19.24.201
+172.19.24.202
+beijing 38f9-d3be-2758 <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+beijing 38f9-d37e-78a0 <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+chengdu b469-216d-805d <class 'str'> <class 'str'>
+172.19.36.201
+172.19.36.202
+shenzhen 185e-0fa1-7f93 <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+shenzhen 04ea-5613-6771 <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+172.19.24.201
+172.19.24.202
+[2019-06-25 17:56:38 +0800] [28479] [INFO] Starting gunicorn 19.9.0
+[2019-06-25 17:56:38 +0800] [28479] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-25 17:56:38 +0800] [28479] [ERROR] Retrying in 1 second.
+[2019-06-25 17:56:39 +0800] [28479] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-25 17:56:39 +0800] [28479] [ERROR] Retrying in 1 second.
+[2019-06-25 17:56:40 +0800] [28479] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-25 17:56:40 +0800] [28479] [ERROR] Retrying in 1 second.
+[2019-06-25 17:56:41 +0800] [28479] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-25 17:56:41 +0800] [28479] [ERROR] Retrying in 1 second.
+[2019-06-25 17:56:42 +0800] [28479] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-25 17:56:42 +0800] [28479] [ERROR] Retrying in 1 second.
+[2019-06-25 17:56:43 +0800] [28479] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2019-06-25 17:57:08 +0800] [12660] [INFO] Shutting down: Master
+[2019-06-25 17:57:58 +0800] [28494] [INFO] Starting gunicorn 19.9.0
+[2019-06-25 17:57:58 +0800] [28494] [INFO] Listening at: http://0.0.0.0:8000 (28494)
+[2019-06-25 17:57:58 +0800] [28494] [INFO] Using worker: sync
+[2019-06-25 17:57:58 +0800] [28497] [INFO] Booting worker with pid: 28497
+[2019-06-25 17:57:58 +0800] [28498] [INFO] Booting worker with pid: 28498
+[2019-06-25 17:57:58 +0800] [28499] [INFO] Booting worker with pid: 28499
+[2019-06-25 22:16:09 +0800] [28494] [INFO] Handling signal: term
+/usr/local/python3/lib/python3.6/site-packages/paramiko/ecdsakey.py:164: CryptographyDeprecationWarning: Support for unsafe construction of public numbers from encoded data will be removed in a future version. Please use EllipticCurvePublicKey.from_encoded_point
+  self.ecdsa_curve.curve_class(), pointinfo
+[2019-06-25 14:16:09 +0000] [28498] [INFO] Worker exiting (pid: 28498)
+/usr/local/python3/lib/python3.6/site-packages/paramiko/ecdsakey.py:164: CryptographyDeprecationWarning: Support for unsafe construction of public numbers from encoded data will be removed in a future version. Please use EllipticCurvePublicKey.from_encoded_point
+  self.ecdsa_curve.curve_class(), pointinfo
+[2019-06-25 14:16:09 +0000] [28497] [INFO] Worker exiting (pid: 28497)
+/usr/local/python3/lib/python3.6/site-packages/paramiko/ecdsakey.py:164: CryptographyDeprecationWarning: Support for unsafe construction of public numbers from encoded data will be removed in a future version. Please use EllipticCurvePublicKey.from_encoded_point
+  self.ecdsa_curve.curve_class(), pointinfo
+[2019-06-25 14:16:09 +0000] [28499] [INFO] Worker exiting (pid: 28499)
+beijing 38f9-d3bb-05ad <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+beijing 38f9-d37e-172d <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+beijing 38f9-d3be-2a28 <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+172.19.32.201
+172.19.32.202
+beijing acbc-32c9-aca7 <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+beijing 38f9-d3c0-6406 <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+beijing f45c-89a4-e71d <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+beijing acbc-32c9-62c9 <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+172.19.192.2
+172.19.192.3
+shanghai acbc-320d-fa03 <class 'str'> <class 'str'>
+172.19.192.2
+172.19.192.3
+beijing f45c-899a-2923 <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+beijing 38f9-d3bb-0640 <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+beijing 38f9-d376-c38d <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+beijing acbc-327c-37df <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+beijing c4b3-01be-23c5 <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+beijing 38f9-d37f-aceb <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+beijing d8f2-ca2c-b7cb <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+beijing 38f9-d37f-9c9a <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+beijing 38f9-d37e-7999 <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+beijing 38f9-d37e-1831 <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+[2019-06-25 22:16:09 +0800] [29308] [INFO] Starting gunicorn 19.9.0
+[2019-06-25 22:16:09 +0800] [29308] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-25 22:16:09 +0800] [29308] [ERROR] Retrying in 1 second.
+[2019-06-25 22:16:10 +0800] [29308] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-25 22:16:10 +0800] [29308] [ERROR] Retrying in 1 second.
+[2019-06-25 22:16:11 +0800] [29308] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-25 22:16:11 +0800] [29308] [ERROR] Retrying in 1 second.
+[2019-06-25 22:16:12 +0800] [29308] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-25 22:16:12 +0800] [29308] [ERROR] Retrying in 1 second.
+[2019-06-25 22:16:13 +0800] [29308] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-25 22:16:13 +0800] [29308] [ERROR] Retrying in 1 second.
+[2019-06-25 22:16:14 +0800] [29308] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2019-06-25 22:16:21 +0800] [29319] [INFO] Starting gunicorn 19.9.0
+[2019-06-25 22:16:21 +0800] [29319] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-25 22:16:21 +0800] [29319] [ERROR] Retrying in 1 second.
+[2019-06-25 22:16:22 +0800] [29319] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-25 22:16:22 +0800] [29319] [ERROR] Retrying in 1 second.
+[2019-06-25 22:16:23 +0800] [29319] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-25 22:16:23 +0800] [29319] [ERROR] Retrying in 1 second.
+[2019-06-25 22:16:24 +0800] [29319] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-25 22:16:24 +0800] [29319] [ERROR] Retrying in 1 second.
+[2019-06-25 22:16:25 +0800] [29319] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-25 22:16:25 +0800] [29319] [ERROR] Retrying in 1 second.
+[2019-06-25 22:16:26 +0800] [29319] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2019-06-25 22:16:39 +0800] [28494] [INFO] Shutting down: Master
+[2019-06-25 22:17:10 +0800] [29335] [INFO] Starting gunicorn 19.9.0
+[2019-06-25 22:17:10 +0800] [29335] [INFO] Listening at: http://0.0.0.0:8000 (29335)
+[2019-06-25 22:17:10 +0800] [29335] [INFO] Using worker: sync
+[2019-06-25 22:17:10 +0800] [29338] [INFO] Booting worker with pid: 29338
+[2019-06-25 22:17:10 +0800] [29339] [INFO] Booting worker with pid: 29339
+[2019-06-25 22:17:10 +0800] [29340] [INFO] Booting worker with pid: 29340
+Not Found: /favicon.ico
+/usr/local/python3/lib/python3.6/site-packages/paramiko/ecdsakey.py:164: CryptographyDeprecationWarning: Support for unsafe construction of public numbers from encoded data will be removed in a future version. Please use EllipticCurvePublicKey.from_encoded_point
+  self.ecdsa_curve.curve_class(), pointinfo
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+/usr/local/python3/lib/python3.6/site-packages/paramiko/ecdsakey.py:164: CryptographyDeprecationWarning: Support for unsafe construction of public numbers from encoded data will be removed in a future version. Please use EllipticCurvePublicKey.from_encoded_point
+  self.ecdsa_curve.curve_class(), pointinfo
+[2019-06-25 15:15:27 +0000] [29340] [INFO] Parent changed, shutting down: <Worker 29340>
+[2019-06-25 15:15:27 +0000] [29340] [INFO] Worker exiting (pid: 29340)
+beijing 38f9-d37e-7999 <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+beijing 38f9-d37e-1831 <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+beijing f45c-899a-2923 <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+beijing 38f9-d3bb-0640 <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+beijing 38f9-d376-c38d <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+172.19.32.201
+172.19.32.202
+/usr/local/python3/lib/python3.6/site-packages/paramiko/ecdsakey.py:164: CryptographyDeprecationWarning: Support for unsafe construction of public numbers from encoded data will be removed in a future version. Please use EllipticCurvePublicKey.from_encoded_point
+  self.ecdsa_curve.curve_class(), pointinfo
+[2019-06-25 15:15:32 +0000] [29339] [INFO] Parent changed, shutting down: <Worker 29339>
+[2019-06-25 15:15:32 +0000] [29339] [INFO] Worker exiting (pid: 29339)
+beijing f45c-89a4-e71d <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+beijing acbc-327c-37df <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+beijing 38f9-d3be-2a28 <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+beijing acbc-32c9-62c9 <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+beijing 38f9-d37e-78a0 <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+beijing B469-2149-7492 <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+172.19.32.201
+172.19.32.202
+beijing c4b3-01c8-5fa9 <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+beijing c4b3-01c8-5fa9 <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+beijing c4b3-01c8-5fa9 <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+[2019-06-25 15:15:33 +0000] [29338] [INFO] Parent changed, shutting down: <Worker 29338>
+[2019-06-25 15:15:33 +0000] [29338] [INFO] Worker exiting (pid: 29338)
+beijing c4b3-01be-2e63 <class 'str'> <class 'str'>
+beijing c4b3-01be-24f5 <class 'str'> <class 'str'>
+beijing acbc-32c9-aca7 <class 'str'> <class 'str'>
+beijing 38f9-d3ba-d3f3 <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+shenzhen c821-5867-5a66 <class 'str'> <class 'str'>
+shenzhen 04ea-5612-ce01 <class 'str'> <class 'str'>
+shenzhen 04ea-5613-84fe <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+172.19.32.201
+172.19.32.202
+beijing 38f9-d3c0-8188 <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+172.19.32.201
+172.19.32.202
+172.19.32.201
+172.19.32.202
+beijing d8f2-ca2c-b7cb <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+[2019-06-25 23:16:06 +0800] [29708] [INFO] Starting gunicorn 19.9.0
+[2019-06-25 23:16:06 +0800] [29708] [INFO] Listening at: http://0.0.0.0:8000 (29708)
+[2019-06-25 23:16:06 +0800] [29708] [INFO] Using worker: sync
+[2019-06-25 23:16:06 +0800] [29711] [INFO] Booting worker with pid: 29711
+[2019-06-25 23:16:06 +0800] [29713] [INFO] Booting worker with pid: 29713
+[2019-06-25 23:16:06 +0800] [29714] [INFO] Booting worker with pid: 29714
+/usr/local/python3/lib/python3.6/site-packages/paramiko/ecdsakey.py:164: CryptographyDeprecationWarning: Support for unsafe construction of public numbers from encoded data will be removed in a future version. Please use EllipticCurvePublicKey.from_encoded_point
+  self.ecdsa_curve.curve_class(), pointinfo
+Not Found: /
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+/usr/local/python3/lib/python3.6/site-packages/paramiko/ecdsakey.py:164: CryptographyDeprecationWarning: Support for unsafe construction of public numbers from encoded data will be removed in a future version. Please use EllipticCurvePublicKey.from_encoded_point
+  self.ecdsa_curve.curve_class(), pointinfo
+Not Found: /favicon.ico
+[2019-06-27 17:49:19 +0800] [29708] [INFO] Handling signal: term
+[2019-06-27 09:49:19 +0000] [29713] [INFO] Worker exiting (pid: 29713)
+/usr/local/python3/lib/python3.6/site-packages/paramiko/ecdsakey.py:164: CryptographyDeprecationWarning: Support for unsafe construction of public numbers from encoded data will be removed in a future version. Please use EllipticCurvePublicKey.from_encoded_point
+  self.ecdsa_curve.curve_class(), pointinfo
+[2019-06-27 09:49:19 +0000] [29711] [INFO] Worker exiting (pid: 29711)
+beijing 38f9-d375-4a4c <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+shenzhen b469-214a-936b <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+172.19.24.201
+172.19.24.202
+172.19.24.201
+172.19.24.202
+beijing 38f9-d37e-7db2 <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+beijing 38f9-d3bb-05ad <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+172.19.192.2
+172.19.192.3
+[2019-06-27 09:49:19 +0000] [29714] [INFO] Worker exiting (pid: 29714)
+beijing b0c0-9060-ce5d <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+beijing 38f9-d3c0-6406 <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+beijing 38f9-d37e-172d <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+172.19.32.201
+172.19.32.202
+beijing c4b3-01be-23c5 <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+shenzhen b469-214a-936d <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+172.19.24.201
+172.19.24.202
+172.19.192.2
+172.19.192.3
+chengdu 38f9-d32c-5228 <class 'str'> <class 'str'>
+chengdu 38f9-d32e-0985 <class 'str'> <class 'str'>
+172.19.36.201
+172.19.36.202
+172.19.32.201
+172.19.32.202
+beijing B469-2149-7492 <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+shenzhen 04ea-5610-c106 <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+beijing 38f9-d37f-9c9a <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+shanghai b469-216d-8355 <class 'str'> <class 'str'>
+172.19.192.2
+172.19.192.3
+shenzhen b469-216d-8355 <class 'str'> <class 'str'>
+172.19.24.201
+172.19.24.202
+172.19.32.201
+172.19.32.202
+beijing 38f9-d37f-933b <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+beijing 38f9-d375-4a4c <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+beijing 38f9-d37e-7db2 <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+beijing 38f9-d37f-aceb <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+shanghai c8ff-2852-22b1 <class 'str'> <class 'str'>
+172.19.192.2
+172.19.192.3
+shanghai 3889-2c21-e581 <class 'str'> <class 'str'>
+172.19.192.2
+172.19.192.3
+172.19.192.2
+172.19.192.3
+shanghai c8ff-2858-e4e3 <class 'str'> <class 'str'>
+172.19.192.2
+172.19.192.3
+172.19.192.2
+172.19.192.3
+shanghai a402-b97d-8c96 <class 'str'> <class 'str'>
+172.19.192.2
+172.19.192.3
+172.19.192.2
+172.19.192.3
+chengdu 00d8-613f-72b0 <class 'str'> <class 'str'>
+172.19.36.201
+172.19.36.202
+beijing c4b3-01c8-5fa9 <class 'str'> <class 'str'>
+172.19.32.201
+172.19.32.202
+[2019-06-27 17:49:30 +0800] [36163] [INFO] Starting gunicorn 19.9.0
+[2019-06-27 17:49:30 +0800] [36163] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-27 17:49:30 +0800] [36163] [ERROR] Retrying in 1 second.
+[2019-06-27 17:49:31 +0800] [36163] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-27 17:49:31 +0800] [36163] [ERROR] Retrying in 1 second.
+[2019-06-27 17:49:32 +0800] [36163] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-27 17:49:32 +0800] [36163] [ERROR] Retrying in 1 second.
+[2019-06-27 17:49:33 +0800] [36163] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-27 17:49:33 +0800] [36163] [ERROR] Retrying in 1 second.
+[2019-06-27 17:49:34 +0800] [36163] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2019-06-27 17:49:34 +0800] [36163] [ERROR] Retrying in 1 second.
+[2019-06-27 17:49:35 +0800] [36163] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2019-06-27 17:49:49 +0800] [29708] [INFO] Shutting down: Master
+[2019-06-27 17:50:20 +0800] [36175] [INFO] Starting gunicorn 19.9.0
+[2019-06-27 17:50:20 +0800] [36175] [INFO] Listening at: http://0.0.0.0:8000 (36175)
+[2019-06-27 17:50:20 +0800] [36175] [INFO] Using worker: sync
+[2019-06-27 17:50:20 +0800] [36178] [INFO] Booting worker with pid: 36178
+[2019-06-27 17:50:20 +0800] [36180] [INFO] Booting worker with pid: 36180
+[2019-06-27 17:50:20 +0800] [36182] [INFO] Booting worker with pid: 36182
+Not Found: /favicon.ico
+[2019-06-28 19:04:10 +0800] [39923] [INFO] Starting gunicorn 19.9.0
+[2019-06-28 19:04:10 +0800] [39923] [INFO] Listening at: http://0.0.0.0:8000 (39923)
+[2019-06-28 19:04:10 +0800] [39923] [INFO] Using worker: sync
+[2019-06-28 19:04:10 +0800] [39926] [INFO] Booting worker with pid: 39926
+[2019-06-28 19:04:10 +0800] [39927] [INFO] Booting worker with pid: 39927
+[2019-06-28 19:04:11 +0800] [39930] [INFO] Booting worker with pid: 39930
+Internal Server Error: /macauth/
+Traceback (most recent call last):
+  File "/usr/local/python3/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/python3/lib/python3.6/site-packages/django/core/handlers/base.py", line 111, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "/usr/local/python3/lib/python3.6/site-packages/django/urls/resolvers.py", line 491, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/python3/lib/python3.6/site-packages/django/utils/functional.py", line 37, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/python3/lib/python3.6/site-packages/django/urls/resolvers.py", line 533, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/python3/lib/python3.6/site-packages/django/utils/functional.py", line 37, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/python3/lib/python3.6/site-packages/django/urls/resolvers.py", line 526, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/local/python3/lib/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 978, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 961, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 950, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 655, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 205, in _call_with_frames_removed
+  File "/root/django_project/mac_auth/mac_auth/urls.py", line 18, in <module>
+    from macauth import views
+  File "/root/django_project/mac_auth/macauth/views.py", line 9, in <module>
+    from macauth.macoperation import mac_compare as cop,addmac,rmmac
+  File "/root/django_project/mac_auth/macauth/macoperation.py", line 51
+    t2.setDaemon(True)
+                     ^
+TabError: inconsistent use of tabs and spaces in indentation
+Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "/usr/local/python3/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/python3/lib/python3.6/site-packages/django/utils/deprecation.py", line 90, in __call__
+    response = self.process_request(request)
+  File "/usr/local/python3/lib/python3.6/site-packages/django/middleware/common.py", line 52, in process_request
+    if self.should_redirect_with_slash(request):
+  File "/usr/local/python3/lib/python3.6/site-packages/django/middleware/common.py", line 70, in should_redirect_with_slash
+    not is_valid_path(request.path_info, urlconf) and
+  File "/usr/local/python3/lib/python3.6/site-packages/django/urls/base.py", line 157, in is_valid_path
+    resolve(path, urlconf)
+  File "/usr/local/python3/lib/python3.6/site-packages/django/urls/base.py", line 24, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/python3/lib/python3.6/site-packages/django/urls/resolvers.py", line 491, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/python3/lib/python3.6/site-packages/django/utils/functional.py", line 37, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/python3/lib/python3.6/site-packages/django/urls/resolvers.py", line 533, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/python3/lib/python3.6/site-packages/django/utils/functional.py", line 37, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/python3/lib/python3.6/site-packages/django/urls/resolvers.py", line 526, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/local/python3/lib/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 978, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 961, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 950, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 655, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 205, in _call_with_frames_removed
+  File "/root/django_project/mac_auth/mac_auth/urls.py", line 18, in <module>
+    from macauth import views
+  File "/root/django_project/mac_auth/macauth/views.py", line 9, in <module>
+    from macauth.macoperation import mac_compare as cop,addmac,rmmac
+  File "/root/django_project/mac_auth/macauth/macoperation.py", line 51
+    t2.setDaemon(True)
+                     ^
+TabError: inconsistent use of tabs and spaces in indentation
+[2019-06-28 19:10:28 +0800] [39964] [INFO] Starting gunicorn 19.9.0
+[2019-06-28 19:10:28 +0800] [39964] [INFO] Listening at: http://0.0.0.0:8000 (39964)
+[2019-06-28 19:10:28 +0800] [39964] [INFO] Using worker: sync
+[2019-06-28 19:10:28 +0800] [39967] [INFO] Booting worker with pid: 39967
+[2019-06-28 19:10:29 +0800] [39969] [INFO] Booting worker with pid: 39969
+[2019-06-28 19:10:29 +0800] [39970] [INFO] Booting worker with pid: 39970
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[2019-06-29 00:03:40 +0800] [40709] [INFO] Starting gunicorn 19.9.0
+[2019-06-29 00:03:40 +0800] [40709] [INFO] Listening at: http://0.0.0.0:8000 (40709)
+[2019-06-29 00:03:40 +0800] [40709] [INFO] Using worker: sync
+[2019-06-29 00:03:40 +0800] [40712] [INFO] Booting worker with pid: 40712
+[2019-06-29 00:03:40 +0800] [40713] [INFO] Booting worker with pid: 40713
+[2019-06-29 00:03:40 +0800] [40714] [INFO] Booting worker with pid: 40714
+[2019-06-29 00:07:03 +0800] [40753] [INFO] Starting gunicorn 19.9.0
+[2019-06-29 00:07:03 +0800] [40753] [INFO] Listening at: http://0.0.0.0:8000 (40753)
+[2019-06-29 00:07:03 +0800] [40753] [INFO] Using worker: sync
+[2019-06-29 00:07:03 +0800] [40756] [INFO] Booting worker with pid: 40756
+[2019-06-29 00:07:03 +0800] [40758] [INFO] Booting worker with pid: 40758
+[2019-06-29 00:07:03 +0800] [40759] [INFO] Booting worker with pid: 40759
+/usr/local/python3/lib/python3.6/site-packages/paramiko/ecdsakey.py:164: CryptographyDeprecationWarning: Support for unsafe construction of public numbers from encoded data will be removed in a future version. Please use EllipticCurvePublicKey.from_encoded_point
+  self.ecdsa_curve.curve_class(), pointinfo
+Not Found: /favicon.ico
+/usr/local/python3/lib/python3.6/site-packages/paramiko/ecdsakey.py:164: CryptographyDeprecationWarning: Support for unsafe construction of public numbers from encoded data will be removed in a future version. Please use EllipticCurvePublicKey.from_encoded_point
+  self.ecdsa_curve.curve_class(), pointinfo
+Not Found: /
+[2019-07-01 18:04:31 +0800] [38339] [INFO] Starting gunicorn 19.9.0
+[2019-07-01 18:04:31 +0800] [38339] [INFO] Listening at: http://0.0.0.0:8000 (38339)
+[2019-07-01 18:04:31 +0800] [38339] [INFO] Using worker: sync
+[2019-07-01 18:04:31 +0800] [38342] [INFO] Booting worker with pid: 38342
+[2019-07-01 18:04:31 +0800] [38344] [INFO] Booting worker with pid: 38344
+[2019-07-01 18:04:32 +0800] [38345] [INFO] Booting worker with pid: 38345
+Forbidden (CSRF cookie not set.): /showdata/
+Forbidden (CSRF cookie not set.): /showdata/
+Forbidden (CSRF cookie not set.): /showdata/
+[2019-07-01 18:06:05 +0800] [38372] [INFO] Starting gunicorn 19.9.0
+[2019-07-01 18:06:05 +0800] [38372] [INFO] Listening at: http://0.0.0.0:8000 (38372)
+[2019-07-01 18:06:05 +0800] [38372] [INFO] Using worker: sync
+[2019-07-01 18:06:05 +0800] [38375] [INFO] Booting worker with pid: 38375
+[2019-07-01 18:06:05 +0800] [38377] [INFO] Booting worker with pid: 38377
+[2019-07-01 18:06:06 +0800] [38378] [INFO] Booting worker with pid: 38378

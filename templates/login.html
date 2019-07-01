@@ -1,0 +1,90 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>mac authentication portal</title>
+<link href="/static/css/style.css" rel="stylesheet" type="text/css" media="all" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+
+<script src="/static/jquery-3.3.1.js"></script>
+
+</head>
+<body>
+<!-- contact-form -->	
+<div class="message warning">
+<div class="inset">
+	<div class="login-head">
+		<h1>MAC authentication portal login</h1>
+
+	</div>
+		<form>
+			<li id="username">
+				<input type="text" />
+			</li>
+				<div class="clear"> </div>
+			<li id="password">
+				<input type="password" />
+			</li>
+			<div class="clear"> </div>
+			<div class="submit">
+				<input type="button" id="submit"onclick="LoginFunc(this);" value="Sign in" >
+                <div class="clear">  </div>
+			</div>
+				
+		</form>
+		</div>					
+	</div>
+	</div>
+	<div class="clear"> </div>
+<!--- footer --->
+<div class="footer">
+	<p>Copyright &copy; 2019.</p>
+</div>
+
+
+
+<script>
+
+    function LoginFunc(ths) {
+        var user = $("#username :text").val();
+        var pass = $("#password :password").val();
+        $.ajax({
+            url:"/login/",
+            type:'POST',
+            data:{
+                'user':user,
+                'pass':pass
+            },
+            success:function (data) {
+                data = JSON.parse(data);
+                if(data["status"]=='online')
+                    {
+                        location.href='/macauth'}
+                else {
+                    location.href='/loginPage'
+                }
+            },
+            error:function (data) {
+                console.log(data)
+            }
+        })
+    }
+    document.onkeydown = function (e) { 
+       var theEvent = window.event || e;
+       var code = theEvent.keyCode || theEvent.which || theEvent.charCode;
+       console.log(code);
+       if(code==13)
+       {
+
+            $("#submit").click();
+            return false;                               
+       }
+
+    }
+
+
+
+</script>
+</body>
+</html>

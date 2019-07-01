@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link href="/static/css/index1.css" type="text/css" rel="stylesheet"/>
+    <link href="/static/css/bootstrap.css" type="text/css" rel="stylesheet"/>
+    <script src="/static/jquery-3.3.1.js"></script>
+    <script src="/static/js/bootstrap.js"></script>
+</head>
+<body>
+
+<div class="page-header">
+    <img class='logo' src="/static/images/logo.jpg" />
+    <h1 class="pageTitle">研发网MAC地址接入管理</h1>
+    <img class="pic" src="/static/images/pic.jpg"/>
+
+</div>
+<div class="page">
+    <div class="title" >
+        <button position="shanghai" style="background-color: gray">上海</button>
+        <button position="shenzhen" style="background-color: gray">深圳</button>
+        <button position="chengdu" style="background-color: gray">成都</button>
+        <button position="beijing" style="background-color: gray">北京</button>
+    </div>
+    <div id="macauth">
+        <div id="shanghai" style="display: none">
+            <textarea></textarea>
+        </div>
+        <div id="shenzhen" style="display: none">
+            <textarea></textarea>
+        </div>
+        <div id="chengdu" style="display: none">
+            <textarea></textarea>
+        </div>
+        <div id="beijing" style="display: none">
+            <textarea></textarea>
+        </div>
+    </div>
+    <div id="SubmitData">
+        <button onclick="SubmitData();" class="sub">提交</button>
+        <button onclick="CancelData();" class="cal">取消</button>
+    </div>
+</div>
+
+
+
+</body>
+<script>
+
+
+    $('.title').children().each(function () {
+        var cur_button=$(this);
+        $(this).click(function () {
+            var position = cur_button.attr("position");
+            cur_button.attr("style",'background-color:#a94442');
+            cur_button.siblings().attr("style",'background-color:gray');
+            $("#macauth").children().each(function () {
+                if($(this).attr('id')===position){
+                    $(this).attr('style','display:block');
+                    $(this).addClass("activePosition");
+                    $(this).siblings().attr('style','display:none')
+                    $(this).siblings().removeClass("activePosition")
+                }
+
+            });
+            $.ajax({
+                type:'POST',
+                url:'/showdata/',
+                data:{
+                    "position":cur_button.attr("position"),
+                },
+                success:function (data) {
+                    var macs = JSON.parse(data);
+                    var area = cur_button.attr("position");
+                    $("#macauth").children().each(function () {
+
+                        if ($(this).attr("id")==area){
+                            var source_data = "";
+
+                            for (var mac in macs){
+                                source_data = source_data + macs[mac] +"\n";
+                            }
+                            $(this).children().first().text(source_data)
+
+                        }
+                    })
+                },
+                error:function (data) {
+                    alert("ERROR")
+                }
+                
+            })
+        })
+    });
+    $(".title").children().first().click();
+    function SubmitData() {
+        var active_id = $(".activePosition").attr("id");
+        var content = $(".activePosition").children().first().val();
+        var macsub = content.split("\n");
+        var macdata=[];
+        var boolnum=true;
+        for (i in macsub){
+            if (macsub[i].length != 0){
+                macdata.push(macsub[i]);
+                var reg = /^([A-Fa-f0-9]{4}-){2}[A-Fa-f0-9]{4}$/;
+                var result = macsub[i].match(reg);
+                if (result==null){
+                    alert("mac格式不正确,请修改后提交");
+                    boolnum = false;
+                    break;
+                }
+            }
+        }
+        if(boolnum==true){
+            console.log(macdata);
+            $.ajax({
+                url:"/macedit/",
+                type:"POST",
+                data:{
+                    "position":active_id,
+                    "macdata":JSON.stringify(macdata),
+                },
+                success:function (data) {
+                    if(data=="success"){
+                        alert("提交成功");
+                        {#location.reload()#}
+                    }
+                    else if(data=="fail"){
+                        alert("提交失败")
+                    }
+                    else {
+                        alert("ERROR")
+                    }
+                },
+                error:function () {
+                    alert("ERROR")
+                }
+            })
+        }
+    }
+    function CancelData(){
+        location.reload()
+    }
+</script>
+</html>

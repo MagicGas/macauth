@@ -1,0 +1,108 @@
+
+import paramiko
+from macauth.models import MacAddr
+def mac_compare(oldmaclist,newmaclist):
+    addlist = set(newmaclist).difference(oldmaclist)
+    rmlist = set(oldmaclist).difference(newmaclist)
+    return list(addlist),list(rmlist)
+
+
+def addmac(position,maclist):
+    try:
+        for mac in maclist:
+            print(position,mac,type(position),type(mac))
+            MacAddr.objects.create(position=position,macaddr=mac)
+        if maclist:
+            if device_op(position,maclist,[]):
+                return True
+            else:
+                return False
+        else:
+            return True
+
+    except :
+        return False
+
+
+def rmmac(position,maclist):
+    try:
+
+        for mac in maclist:
+            MacAddr.objects.filter(position=position,macaddr=mac).delete()
+        if maclist:
+            if device_op(position,[],maclist):
+                return True
+            else:
+                return False
+        else:
+            return True
+    except :
+        return False
+
+
+
+
+def device_op(position,addmaclist,rmmaclist):
+    try:
+        if (addmaclist or rmmaclist):
+            hostnames =[]
+            result = True
+            if position=="shanghai":
+                hostnames = ["172.19.192.2","172.19.192.3"]
+            if position == "shenzhen":
+                hostnames = ["172.19.24.201", "172.19.24.202"]
+            if position == "beijing":
+                hostnames = ["172.19.32.201", "172.19.32.202"]
+            if position == "chengdu":
+                hostnames = ["172.19.36.201", "172.19.36.202"]
+            for hostname in hostnames:
+                print(hostname)
+                ssh = paramiko.SSHClient()
+                ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())
+                ssh.connect(hostname=hostname, port=22, username='paxjk',
+                            password='paxjk123456')
+                client = ssh.invoke_shell()
+                def run_cmd(cmd, endswith):
+                    buff = ''
+                    client.send(cmd)
+                    while not buff.endswith(endswith):
+                        resp = str(client.recv(1024), 'utf-8')
+                        buff += resp
+                    return buff
+                if addmaclist:
+                    res = ''
+                    res += run_cmd('system-view\n', ']')
+                    res += run_cmd('acl name mac_auth 4000\n', ']')
+                    for mac in addmaclist:
+                        mac_command = 'rule  permit source-mac '+mac+'\n'
+                        res += run_cmd(mac_command, ']')
+                    if "Error: The rule already exists." in res:
+                        ssh.close()
+                    if 'Error' in res:
+                        ssh.close()
+                        return False
+                    else:
+                        ssh.close()
+
+
+                if rmmaclist:
+                    res = ''
+                    res += run_cmd('system-view\n', ']')
+                    res += run_cmd('acl name mac_auth 4000\n', ']')
+                    for mac in rmmaclist:
+                        mac_command = 'undo rule  permit source-mac '+mac+'\n'
+                        res += run_cmd(mac_command, ']')
+                    
+                    if 'Error' in res:
+                        ssh.close()
+                        return False
+                    else:
+                        ssh.close()
+                        result = True
+                ssh.close()
+            return  result
+
+        else:
+            return True
+    except:
+        return False
